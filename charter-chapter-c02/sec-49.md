@@ -1,0 +1,3 @@
+§ 49. Members not to be questioned for speeches. For any speech or
+debate in the council and any committee or subcommittee thereof, the
+members shall not be questioned in any other place.
