@@ -14790,6 +14790,40 @@
      "sha256": "de67c89ef3256d69b8c6669ee66a3d6a73b72947c8bcc17b755b12bce25d9842"
     }
    ]
+  },
+  {
+   "slug": "nyc-local-law-2024-105",
+   "short": "New York City Local Law 105 of 2024",
+   "title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring an agency to provide an explanation of a denial of approval of a subcontractor",
+   "url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=6632652&GUID=36D3FF4A-E9E8-42A3-A4A4-1CB801BC64B3&Options=&Search=",
+   "versions": [
+    {
+     "from": "2025-03-09",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=13607003&GUID=8396E39B-E5E8-4C6F-9C1E-1F70253811F4",
+     "sha256": "c47ef0e834e6ad53c508837d39374873ad0b2fabd11b7a33e70d81dba8fffd97"
+    }
+   ]
+  },
+  {
+   "slug": "nyc-local-law-2024-106",
+   "short": "New York City Local Law 106 of 2024",
+   "title": "A Local Law to amend the administrative code of the city of New York, in relation to establishing guidelines for insurance requirements for food procurement vendors",
+   "url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=6632641&GUID=0D2CA714-52FF-4B81-8D52-7292098B15FD&Options=&Search=",
+   "versions": [
+    {
+     "from": "2025-03-09",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=13607004&GUID=F3ADBE09-F777-4431-978F-4B93CE4ABCC6",
+     "sha256": "913470f1e2841b146726b1dfbb9afb335574998de58e70e3fbc0a64de30c7bdf"
+    }
+   ]
   }
  ]
 }

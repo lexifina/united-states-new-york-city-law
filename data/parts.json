@@ -1765,6 +1765,13 @@
    ],
    "sha256": "91d93bdcf4cb0344037a5c671b38e8aa70ffb00f4f3c1803ee5b401ca7a1e5a9"
   },
+  "80-q23-local-laws-001.json": {
+   "acts": [
+    "nyc-local-law-2024-105",
+    "nyc-local-law-2024-106"
+   ],
+   "sha256": "72cf18c5971e7e114f1a0ebf1688a145989fb61e16c1010532b138d97bcc3e71"
+  },
   "99-nyc-snapshot-notes.json": {
    "acts": [],
    "sha256": "c646ff71b6b222c49bdf740c2f94e6c2275d024212eb289d0ee525d9276237df"

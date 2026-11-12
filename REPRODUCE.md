@@ -185,6 +185,7 @@ This file is written by the build on 2026-11-12, the day the source data was ret
 | New York City Council enacted Local Laws | <https://legistar.council.nyc.gov/Legislation.aspx> | 2026-11-12 | Official legislation is a government edict; no licence in website design is claimed. |
 | New York City Council enacted Local Laws | <https://legistar.council.nyc.gov/Legislation.aspx> | 2026-11-12 | Official legislation is a government edict; no licence in website design is claimed. |
 | New York City Council enacted Local Laws | <https://legistar.council.nyc.gov/Legislation.aspx> | 2026-11-12 | Official legislation is a government edict; no licence in website design is claimed. |
+| New York City Council enacted Local Laws | <https://legistar.council.nyc.gov/Legislation.aspx> | 2026-11-12 | Official legislation is a government edict; no licence in website design is claimed. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -1062,13 +1063,15 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `nyc-local-law-2026-112` | A Local Law to amend the administrative code of the city of New York, in relation to a public outreach and education program regarding Hajj and Umrah-related scams | 1 | 2026-06-19 to 2026-06-19 |
 | `nyc-local-law-2026-111` | A Local Law to amend the administrative code of the city of New York, in relation to the bicycle parking station program | 1 | 2026-06-19 to 2026-06-19 |
 | `nyc-local-law-2025-145` | A Local Law to amend the administrative code of the city of New York in relation to aligning the requirements of the earned safe and sick time act and the temporary schedule change act | 1 | 2026-02-22 to 2026-02-22 |
+| `nyc-local-law-2024-105` | A Local Law to amend the administrative code of the city of New York, in relation to requiring an agency to provide an explanation of a denial of approval of a subcontractor | 1 | 2025-03-09 to 2025-03-09 |
+| `nyc-local-law-2024-106` | A Local Law to amend the administrative code of the city of New York, in relation to establishing guidelines for insurance requirements for food procurement vendors | 1 | 2025-03-09 to 2025-03-09 |
 
-The build made 870 commits:
+The build made 872 commits:
 
 | Commits | Kind |
 | ---: | --- |
 | 101 | baseline texts where the record starts |
-| 769 | named laws, court decisions and treaties |
+| 771 | named laws, court decisions and treaties |
 | 0 | changes no amendment note explains, credited to the publisher |
 | 0 | corrections to the existing record |
 | 0 | printing or layout changes |
@@ -1076,8 +1079,8 @@ The build made 870 commits:
 Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-12.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 769 laws in the record.
-- 1177 tags.
+- 771 laws in the record.
+- 1181 tags.
 
 ## Dates
 
@@ -1089,7 +1092,7 @@ When a law gives no date of its own, the default rule applies: Each adopted inst
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `3d48424dcf192fd50d2092470ec5338c9ecea928c8fe14a21378192c18a938ce` (31068770 bytes).
+- Corpus: sha256 `b0a7c2b7627a83fc04e829917b077796dc8a95c4cc50aaa47ebc8e3451d034bc` (31078637 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `63170edd89e92292ac248dae17d79e486e4e9f19`, `check.py` `e340718c28cd5b0edbe37bdeab1aac31427ada66`, `on.py` `4a8aa1c9a5e6bd8cc831b90a6e68c5a6f448a13c`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
@@ -1280,6 +1283,7 @@ No second build of this corpus has been compared yet.
 - These are separately numbered enacted instruments, not reconstructed consolidated Code or Charter sections. Effective dates come from each final instrument and the Council enactment record. Full native PDF wording is retained.
 - These are separately numbered enacted instruments, not reconstructed consolidated Code or Charter sections. Effective dates come from each final instrument and the Council enactment record. Full native PDF wording is retained.
 - These are separately numbered enacted instruments, not reconstructed consolidated Code or Charter sections. Effective dates come from each final instrument and the Council enactment record. Full native PDF wording is retained.
+- The final instrument gives 120 days after enactment as its sole commencement clause. Council enactment is 2024-11-09, giving 2025-03-09. Full native PDF text is retained.
 - The Administrative Code and Charter snapshots were built with the approved world-law-ops main tool bundle 590053183eb05e4288e221c23feb9e5d8d600e6c.
 - The Administrative Code source Title 29 contains only index pages and no section text; no Title 29 law file is asserted.
 - The Charter source footer prints the Administrative Code waiver wording, so no separate express Charter waiver is claimed.
@@ -1448,7 +1452,4 @@ Model use at data-build time:
 - GPT-6 wrote extraction code and selected metadata; no model generated or corrected legal words or OCR.
 - GPT-6 wrote extraction code and selected metadata; no model generated or corrected legal words or OCR.
 - GPT-6 wrote extraction code and selected metadata; no model generated or corrected legal words or OCR.
-
-## Local Law coverage
-
-This selection contains 307 numbered enacted Local Laws in 53 source parts. Its latest numbered instrument is Local Law 134 of 2026. It is an incomplete collection of separate enacted instruments following the 2017-04-22 historical snapshot, not a consolidated present-day Administrative Code or Charter. One hundred additional numbered instruments identified in the cited Council records remain outside the selection.
+- GPT-6 selected metadata and checked sources; no model generated or corrected legal words or OCR.
