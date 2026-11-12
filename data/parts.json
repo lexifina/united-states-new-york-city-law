@@ -1193,6 +1193,578 @@
    ],
    "sha256": "5eb8da8614378a2dc39adf4098ec0ef6d7501cd1bd59f828a7de7abf388b5efe"
   },
+  "80-q15-local-laws-001.json": {
+   "acts": [
+    "nyc-local-law-2026-053",
+    "nyc-local-law-2026-054",
+    "nyc-local-law-2026-055"
+   ],
+   "sha256": "9475223a955d145148cdce02135450068cf09866dbd466d2d34cb10a70d84e9c"
+  },
+  "80-q15-local-laws-002.json": {
+   "acts": [
+    "nyc-local-law-2026-050",
+    "nyc-local-law-2026-051",
+    "nyc-local-law-2026-057",
+    "nyc-local-law-2026-058",
+    "nyc-local-law-2026-060",
+    "nyc-local-law-2026-062",
+    "nyc-local-law-2026-063",
+    "nyc-local-law-2026-064",
+    "nyc-local-law-2026-065"
+   ],
+   "sha256": "45228b93cf070054ba6f1be09e52534b55f3e03bb20f38550a68dec3d483668d"
+  },
+  "80-q15-local-laws-003.json": {
+   "acts": [
+    "nyc-local-law-2024-049",
+    "nyc-local-law-2024-051",
+    "nyc-local-law-2024-052",
+    "nyc-local-law-2024-053"
+   ],
+   "sha256": "f88a1f871a2967af5bd64d336bfdef3aea3b07677bc50081ac262cf3b7331a48"
+  },
+  "80-q15-local-laws-004.json": {
+   "acts": [
+    "nyc-local-law-2024-044",
+    "nyc-local-law-2024-045",
+    "nyc-local-law-2024-046"
+   ],
+   "sha256": "f604b36808afb79e3a99b23ab01e5c13f3e6b229e2a5123dbed3eac5c3652833"
+  },
+  "80-q15-local-laws-005.json": {
+   "acts": [
+    "nyc-local-law-2024-048",
+    "nyc-local-law-2024-054"
+   ],
+   "sha256": "d606602855ac9d3615b9029dff11587c100bc0ed9882296f51326668e9e30793"
+  },
+  "80-q15-local-laws-006.json": {
+   "acts": [
+    "nyc-local-law-2024-078",
+    "nyc-local-law-2024-079",
+    "nyc-local-law-2024-080",
+    "nyc-local-law-2024-081"
+   ],
+   "sha256": "c2a6e9c83961be74d5b94151726989bc441e1ff41edc71d31144bd28781a3564"
+  },
+  "80-q15-local-laws-007.json": {
+   "acts": [
+    "nyc-local-law-2024-065",
+    "nyc-local-law-2024-066"
+   ],
+   "sha256": "e24290349499f7bd4a215e73a94728357c8819ee26aaad8ceef1d00b36e7b3b9"
+  },
+  "80-q15-local-laws-008.json": {
+   "acts": [
+    "nyc-local-law-2024-073",
+    "nyc-local-law-2024-074",
+    "nyc-local-law-2024-076",
+    "nyc-local-law-2024-077"
+   ],
+   "sha256": "c93d1623c0a8e55a552c242c20e76991c5f08951ca667c67fcd3c3201b3ba28e"
+  },
+  "80-q15-local-laws-009.json": {
+   "acts": [
+    "nyc-local-law-2024-060",
+    "nyc-local-law-2024-061",
+    "nyc-local-law-2024-062"
+   ],
+   "sha256": "644851b88c96e8b745150b4b0bbd1b86be86ae07222a308349563a46626753e2"
+  },
+  "80-q15-local-laws-010.json": {
+   "acts": [
+    "nyc-local-law-2024-063",
+    "nyc-local-law-2024-064"
+   ],
+   "sha256": "120b90cb714b709d907cc763b0703733c172516bdc216c7b496f7cc575833f9e"
+  },
+  "80-q15-local-laws-011.json": {
+   "acts": [
+    "nyc-local-law-2024-047",
+    "nyc-local-law-2024-057",
+    "nyc-local-law-2024-058",
+    "nyc-local-law-2024-059"
+   ],
+   "sha256": "3179387b9f0a545746179613f3894ecd0e643afecd4be2fb0e0a23af118ee93f"
+  },
+  "80-q15-local-laws-012.json": {
+   "acts": [
+    "nyc-local-law-2024-069",
+    "nyc-local-law-2024-071",
+    "nyc-local-law-2024-072"
+   ],
+   "sha256": "649d82a074b9ff14b63ec23f45b99eee042c00526c566f1d03f639a018524797"
+  },
+  "80-q15-local-laws-013.json": {
+   "acts": [
+    "nyc-local-law-2024-129",
+    "nyc-local-law-2024-130",
+    "nyc-local-law-2024-133",
+    "nyc-local-law-2024-134",
+    "nyc-local-law-2024-135",
+    "nyc-local-law-2024-136"
+   ],
+   "sha256": "3aa182d7aa171960b7e72bb39453ba16f9eae973064eb2a14b32d70b56c1eca5"
+  },
+  "80-q15-local-laws-014.json": {
+   "acts": [
+    "nyc-local-law-2024-083",
+    "nyc-local-law-2024-084",
+    "nyc-local-law-2024-085"
+   ],
+   "sha256": "5d9b36f7a2a842c732f2162f1405fa87d64cf23b0267ca4c63e340642cf89a4d"
+  },
+  "80-q15-local-laws-015.json": {
+   "acts": [
+    "nyc-local-law-2024-089",
+    "nyc-local-law-2024-090",
+    "nyc-local-law-2024-091",
+    "nyc-local-law-2024-093",
+    "nyc-local-law-2024-094",
+    "nyc-local-law-2024-095"
+   ],
+   "sha256": "23f2aaad72872b93649d8984869a4294b956b32c4f72c61adf67edb4deb59f78"
+  },
+  "80-q15-local-laws-016.json": {
+   "acts": [
+    "nyc-local-law-2024-098",
+    "nyc-local-law-2024-100",
+    "nyc-local-law-2024-101",
+    "nyc-local-law-2024-102",
+    "nyc-local-law-2024-103"
+   ],
+   "sha256": "3664efa1a3797d23b1b7a614dc1eab81aae0e4b894f16f163d798442cfa5e31a"
+  },
+  "80-q15-local-laws-017.json": {
+   "acts": [
+    "nyc-local-law-2024-107",
+    "nyc-local-law-2024-108",
+    "nyc-local-law-2024-109",
+    "nyc-local-law-2024-110",
+    "nyc-local-law-2024-111"
+   ],
+   "sha256": "2194fc3ad07e1f64f411972315213ada2682015cc985ae7661546f90dc611d7e"
+  },
+  "80-q15-local-laws-018.json": {
+   "acts": [
+    "nyc-local-law-2025-065",
+    "nyc-local-law-2025-067",
+    "nyc-local-law-2025-069",
+    "nyc-local-law-2025-070",
+    "nyc-local-law-2025-071",
+    "nyc-local-law-2025-072",
+    "nyc-local-law-2025-073",
+    "nyc-local-law-2025-074",
+    "nyc-local-law-2025-076"
+   ],
+   "sha256": "276cb1e201601a1eac491e157abc13f49d210ea5abce473a40bc6c1da7976004"
+  },
+  "80-q15-local-laws-019.json": {
+   "acts": [
+    "nyc-local-law-2025-003",
+    "nyc-local-law-2025-004",
+    "nyc-local-law-2025-006",
+    "nyc-local-law-2025-008",
+    "nyc-local-law-2025-010"
+   ],
+   "sha256": "0082fb006c872d19a1a1880d22eadcbe17b223788536a046eca0030091073ed5"
+  },
+  "80-q15-local-laws-020.json": {
+   "acts": [
+    "nyc-local-law-2024-113",
+    "nyc-local-law-2024-114",
+    "nyc-local-law-2024-115",
+    "nyc-local-law-2024-116"
+   ],
+   "sha256": "69acac821965ee76c053c6506bc35e9d3036f38ce1c0f2a47a9090f44888ed0b"
+  },
+  "80-q15-local-laws-021.json": {
+   "acts": [
+    "nyc-local-law-2024-118",
+    "nyc-local-law-2024-119",
+    "nyc-local-law-2024-120",
+    "nyc-local-law-2024-121"
+   ],
+   "sha256": "ad50018939643bba3a996455664af208e4ad53931f3f1f7b20c6538be6f5d7a8"
+  },
+  "80-q15-local-laws-022.json": {
+   "acts": [
+    "nyc-local-law-2025-029",
+    "nyc-local-law-2025-030",
+    "nyc-local-law-2025-031",
+    "nyc-local-law-2025-032",
+    "nyc-local-law-2025-033",
+    "nyc-local-law-2025-034",
+    "nyc-local-law-2025-035",
+    "nyc-local-law-2025-036"
+   ],
+   "sha256": "5c79c7d3bbcc8fb22378c94c6b4b80fe170dcd8af99191e29dfe5355cf34b3b7"
+  },
+  "80-q15-local-laws-023.json": {
+   "acts": [
+    "nyc-local-law-2025-054",
+    "nyc-local-law-2025-055",
+    "nyc-local-law-2025-057",
+    "nyc-local-law-2025-058",
+    "nyc-local-law-2025-059",
+    "nyc-local-law-2025-060",
+    "nyc-local-law-2025-061",
+    "nyc-local-law-2025-062"
+   ],
+   "sha256": "c7d78dbc99e4fbfbac34cf2e3ae7b0451de16e542a1d523d05983a2908e71093"
+  },
+  "80-q15-local-laws-024.json": {
+   "acts": [
+    "nyc-local-law-2025-083",
+    "nyc-local-law-2025-084",
+    "nyc-local-law-2025-089"
+   ],
+   "sha256": "e8937d49a4247b496c5d7f825e0736eafbfae8236c50562a4f56cab34ba64b65"
+  },
+  "80-q15-local-laws-025.json": {
+   "acts": [
+    "nyc-local-law-2025-038",
+    "nyc-local-law-2025-039",
+    "nyc-local-law-2025-040",
+    "nyc-local-law-2025-041",
+    "nyc-local-law-2025-042",
+    "nyc-local-law-2025-044",
+    "nyc-local-law-2025-045",
+    "nyc-local-law-2025-046"
+   ],
+   "sha256": "5fbb7a015e4e8870110a7a4065899f62101f3ada70a3f1fb9a60891b3917a577"
+  },
+  "80-q15-local-laws-026.json": {
+   "acts": [
+    "nyc-local-law-2025-048",
+    "nyc-local-law-2025-052",
+    "nyc-local-law-2025-053"
+   ],
+   "sha256": "3a15b9fc4f4eb73f47a43f4d8d13d0e740de8b93e1f956fa7e7ff423d51fe5f4"
+  },
+  "80-q15-local-laws-027.json": {
+   "acts": [
+    "nyc-local-law-2025-019",
+    "nyc-local-law-2025-020",
+    "nyc-local-law-2025-022",
+    "nyc-local-law-2025-023",
+    "nyc-local-law-2025-024",
+    "nyc-local-law-2025-025",
+    "nyc-local-law-2025-026",
+    "nyc-local-law-2025-027"
+   ],
+   "sha256": "2286465d3c267e1aae208038137117fe4466f94d08772b4929b5858315947de2"
+  },
+  "80-q15-local-laws-028.json": {
+   "acts": [
+    "nyc-local-law-2025-142",
+    "nyc-local-law-2025-143",
+    "nyc-local-law-2025-144",
+    "nyc-local-law-2025-146",
+    "nyc-local-law-2025-147",
+    "nyc-local-law-2025-148",
+    "nyc-local-law-2025-149",
+    "nyc-local-law-2025-150"
+   ],
+   "sha256": "7f62e408cf0e244eef30d81f54df5cf12ad4ed9632c297387ea7211a24597521"
+  },
+  "80-q15-local-laws-029.json": {
+   "acts": [
+    "nyc-local-law-2025-077",
+    "nyc-local-law-2025-078",
+    "nyc-local-law-2025-079",
+    "nyc-local-law-2025-080",
+    "nyc-local-law-2025-081"
+   ],
+   "sha256": "b372c2e38b1c01a63560db04845a8e7dd1566e0a8ae146c4ac07b5f1b33eeb3a"
+  },
+  "80-q15-local-laws-030.json": {
+   "acts": [
+    "nyc-local-law-2025-090",
+    "nyc-local-law-2025-092",
+    "nyc-local-law-2025-093"
+   ],
+   "sha256": "60dc571234430e10d4687d350a0c7377cc5bdcd521a34fc5fc8a5e522ac8511c"
+  },
+  "80-q15-local-laws-031.json": {
+   "acts": [
+    "nyc-local-law-2025-094",
+    "nyc-local-law-2025-095",
+    "nyc-local-law-2025-096",
+    "nyc-local-law-2025-097",
+    "nyc-local-law-2025-098",
+    "nyc-local-law-2025-099",
+    "nyc-local-law-2025-101",
+    "nyc-local-law-2025-102",
+    "nyc-local-law-2025-122"
+   ],
+   "sha256": "1fd5f9735326b17cbf84ebffd685a981506368f0a0a675ca272efb09b5a15350"
+  },
+  "80-q15-local-laws-032.json": {
+   "acts": [
+    "nyc-local-law-2025-134",
+    "nyc-local-law-2025-135",
+    "nyc-local-law-2025-136",
+    "nyc-local-law-2025-137",
+    "nyc-local-law-2025-138",
+    "nyc-local-law-2025-139",
+    "nyc-local-law-2025-140",
+    "nyc-local-law-2025-141"
+   ],
+   "sha256": "4778eb4836ccaf89bbc1e62931b94e35198019d2b2338d07e4dfd0869cb53746"
+  },
+  "80-q15-local-laws-033.json": {
+   "acts": [
+    "nyc-local-law-2024-122",
+    "nyc-local-law-2024-123",
+    "nyc-local-law-2024-124",
+    "nyc-local-law-2024-125",
+    "nyc-local-law-2024-126",
+    "nyc-local-law-2025-001",
+    "nyc-local-law-2025-002"
+   ],
+   "sha256": "f4fea8b4079d5a40a4995fb066259e63f9324e538c7a6d12b283bdc1e355f379"
+  },
+  "80-q15-local-laws-034.json": {
+   "acts": [
+    "nyc-local-law-2025-012",
+    "nyc-local-law-2025-013",
+    "nyc-local-law-2025-014",
+    "nyc-local-law-2025-015",
+    "nyc-local-law-2025-016",
+    "nyc-local-law-2025-017",
+    "nyc-local-law-2025-018"
+   ],
+   "sha256": "c93712688cd9ec950a0bc72683324e4f61c31ff3174fefdd2d94a2a38ab98413"
+  },
+  "80-q15-local-laws-035.json": {
+   "acts": [
+    "nyc-local-law-2025-104",
+    "nyc-local-law-2025-105",
+    "nyc-local-law-2025-106",
+    "nyc-local-law-2025-111",
+    "nyc-local-law-2025-114",
+    "nyc-local-law-2025-115",
+    "nyc-local-law-2025-116",
+    "nyc-local-law-2025-117",
+    "nyc-local-law-2025-118",
+    "nyc-local-law-2025-119",
+    "nyc-local-law-2025-120",
+    "nyc-local-law-2025-121"
+   ],
+   "sha256": "05df8486fe11a0128edf59f3902bcd2a190c2ef3b20e21d5f52bee22a4f41691"
+  },
+  "80-q15-local-laws-036.json": {
+   "acts": [
+    "nyc-local-law-2025-151",
+    "nyc-local-law-2025-152",
+    "nyc-local-law-2025-153",
+    "nyc-local-law-2025-154",
+    "nyc-local-law-2025-155",
+    "nyc-local-law-2025-156",
+    "nyc-local-law-2025-157",
+    "nyc-local-law-2025-159",
+    "nyc-local-law-2025-173",
+    "nyc-local-law-2025-175",
+    "nyc-local-law-2025-176"
+   ],
+   "sha256": "00c2680ca5528f4107927322e58607d83708f841a27f29ee6da5638f2309992a"
+  },
+  "80-q15-local-laws-037.json": {
+   "acts": [
+    "nyc-local-law-2025-160",
+    "nyc-local-law-2025-161",
+    "nyc-local-law-2025-164",
+    "nyc-local-law-2025-165",
+    "nyc-local-law-2025-166",
+    "nyc-local-law-2025-167",
+    "nyc-local-law-2025-168",
+    "nyc-local-law-2025-169",
+    "nyc-local-law-2025-170",
+    "nyc-local-law-2025-171"
+   ],
+   "sha256": "e51775f95da2b6a2766d290ae5574cd13dd7ce69765b75964623e71423279da8"
+  },
+  "80-q15-local-laws-038.json": {
+   "acts": [
+    "nyc-local-law-2024-086",
+    "nyc-local-law-2024-087",
+    "nyc-local-law-2024-088"
+   ],
+   "sha256": "a6bd73bb0f5aa720c0725ade29a3d5e0c4c63b1d545fb61bed80c0c32b739be5"
+  },
+  "80-q15-local-laws-039.json": {
+   "acts": [
+    "nyc-local-law-2025-187",
+    "nyc-local-law-2025-188",
+    "nyc-local-law-2025-189",
+    "nyc-local-law-2025-190",
+    "nyc-local-law-2025-191",
+    "nyc-local-law-2025-192",
+    "nyc-local-law-2025-194",
+    "nyc-local-law-2025-196",
+    "nyc-local-law-2025-197",
+    "nyc-local-law-2025-199",
+    "nyc-local-law-2025-200"
+   ],
+   "sha256": "3868f712b313c8630fc11c95d7820cbeee8f318437c17f018b1294361aa8f5f2"
+  },
+  "80-q15-local-laws-040.json": {
+   "acts": [
+    "nyc-local-law-2026-001",
+    "nyc-local-law-2026-002",
+    "nyc-local-law-2026-004",
+    "nyc-local-law-2026-005",
+    "nyc-local-law-2026-006",
+    "nyc-local-law-2026-007",
+    "nyc-local-law-2026-008",
+    "nyc-local-law-2026-009",
+    "nyc-local-law-2026-010",
+    "nyc-local-law-2026-013",
+    "nyc-local-law-2026-014"
+   ],
+   "sha256": "a05fe516dade09da7bb1fc6851f7da2f6c5a66a6cfaac1b79b53f4219ccac53a"
+  },
+  "80-q15-local-laws-041.json": {
+   "acts": [
+    "nyc-local-law-2025-179",
+    "nyc-local-law-2025-180",
+    "nyc-local-law-2025-181",
+    "nyc-local-law-2025-182",
+    "nyc-local-law-2025-184",
+    "nyc-local-law-2025-185",
+    "nyc-local-law-2025-186"
+   ],
+   "sha256": "69f2181835bb1b1820b5ced78d5a1752adbb74764bea79cbf70392ef6a7c3910"
+  },
+  "80-q15-local-laws-042.json": {
+   "acts": [
+    "nyc-local-law-2026-016",
+    "nyc-local-law-2026-017",
+    "nyc-local-law-2026-018",
+    "nyc-local-law-2026-019",
+    "nyc-local-law-2026-022",
+    "nyc-local-law-2026-024",
+    "nyc-local-law-2026-025",
+    "nyc-local-law-2026-026",
+    "nyc-local-law-2026-027",
+    "nyc-local-law-2026-029",
+    "nyc-local-law-2026-030",
+    "nyc-local-law-2026-031",
+    "nyc-local-law-2026-032",
+    "nyc-local-law-2026-035",
+    "nyc-local-law-2026-036",
+    "nyc-local-law-2026-037",
+    "nyc-local-law-2026-038",
+    "nyc-local-law-2026-039",
+    "nyc-local-law-2026-040",
+    "nyc-local-law-2026-041",
+    "nyc-local-law-2026-046",
+    "nyc-local-law-2026-048"
+   ],
+   "sha256": "4c81f2f0ff248e0ac59c67e5e3304bf337a4bbe3951d7222df8ab8485756c875"
+  },
+  "80-q15-local-laws-043.json": {
+   "acts": [
+    "nyc-local-law-2025-125",
+    "nyc-local-law-2025-126",
+    "nyc-local-law-2025-127",
+    "nyc-local-law-2025-128",
+    "nyc-local-law-2025-129",
+    "nyc-local-law-2025-130",
+    "nyc-local-law-2025-131",
+    "nyc-local-law-2025-132"
+   ],
+   "sha256": "ca9f7af6a2eddc0bb7b9b6f22db0fde85cb7ea6562aa62441c32dd9dcd45bab8"
+  },
+  "80-q15-local-laws-044.json": {
+   "acts": [
+    "nyc-local-law-2026-082",
+    "nyc-local-law-2026-083",
+    "nyc-local-law-2026-085",
+    "nyc-local-law-2026-086"
+   ],
+   "sha256": "698d57fb4c19d031028b1bcaefe9f953cce14366dd6f5666cd6320793f8ffe47"
+  },
+  "80-q15-local-laws-045.json": {
+   "acts": [
+    "nyc-local-law-2026-088",
+    "nyc-local-law-2026-089",
+    "nyc-local-law-2026-090",
+    "nyc-local-law-2026-092",
+    "nyc-local-law-2026-093",
+    "nyc-local-law-2026-094"
+   ],
+   "sha256": "328110fe999a65ce70c6bf9c8511f4aa16af9156a944f664c933fe61477fcfc7"
+  },
+  "80-q15-local-laws-046.json": {
+   "acts": [
+    "nyc-local-law-2026-067",
+    "nyc-local-law-2026-068",
+    "nyc-local-law-2026-069",
+    "nyc-local-law-2026-070"
+   ],
+   "sha256": "4f6eda3a773ccff8957f3a06e9ed8abc69d3b96b8484da6d0e1908a7c8f34579"
+  },
+  "80-q15-local-laws-047.json": {
+   "acts": [
+    "nyc-local-law-2026-072",
+    "nyc-local-law-2026-074",
+    "nyc-local-law-2026-075",
+    "nyc-local-law-2026-076"
+   ],
+   "sha256": "823d9d1c85113bc9117c1f3e335abf227b066a2f25dbfaff9b9916651fa75d07"
+  },
+  "80-q15-local-laws-048.json": {
+   "acts": [
+    "nyc-local-law-2026-077",
+    "nyc-local-law-2026-079",
+    "nyc-local-law-2026-080",
+    "nyc-local-law-2026-081"
+   ],
+   "sha256": "40b2c6ec163d8609f6cee3d7ec611f43a332041e971ec79d379203ebb0e75901"
+  },
+  "80-q15-local-laws-049.json": {
+   "acts": [
+    "nyc-local-law-2026-103",
+    "nyc-local-law-2026-108",
+    "nyc-local-law-2026-109",
+    "nyc-local-law-2026-110"
+   ],
+   "sha256": "a24afd09d68cc48ac663346d746ccc49af49b305d3880718bf767befe386c37c"
+  },
+  "80-q15-local-laws-050.json": {
+   "acts": [
+    "nyc-local-law-2026-114"
+   ],
+   "sha256": "09233a1123ea0d2723a542dc28ea79ceb4cb50e5fc164f9c1ef3fa900e3351b4"
+  },
+  "80-q15-local-laws-051.json": {
+   "acts": [
+    "nyc-local-law-2026-127",
+    "nyc-local-law-2026-128",
+    "nyc-local-law-2026-129",
+    "nyc-local-law-2026-130",
+    "nyc-local-law-2026-131",
+    "nyc-local-law-2026-133",
+    "nyc-local-law-2026-134"
+   ],
+   "sha256": "6e96cf3ab8f455fb916bf8e0f78f3a7bd4182f988f6ddffcee7b744008573def"
+  },
+  "80-q15-local-laws-052.json": {
+   "acts": [
+    "nyc-local-law-2026-111",
+    "nyc-local-law-2026-112"
+   ],
+   "sha256": "c7e9e697080110a63fa652951e758e647e54d8be394415507435031613faed1c"
+  },
+  "80-q15-local-laws-053.json": {
+   "acts": [
+    "nyc-local-law-2025-145"
+   ],
+   "sha256": "91d93bdcf4cb0344037a5c671b38e8aa70ffb00f4f3c1803ee5b401ca7a1e5a9"
+  },
   "99-nyc-snapshot-notes.json": {
    "acts": [],
    "sha256": "c646ff71b6b222c49bdf740c2f94e6c2275d024212eb289d0ee525d9276237df"
