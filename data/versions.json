@@ -15141,6 +15141,57 @@
      "sha256": "6095e72055e9de70177b84c961b3ff27c40174e8a49b6e518ba34ed707ee857c"
     }
    ]
+  },
+  {
+   "slug": "nyc-local-law-2024-070",
+   "short": "New York City Local Law 70 of 2024",
+   "title": "A Local Law to amend the administrative code of the city of New York, in relation to increased penalties for department of buildings violations issued to parking structures",
+   "url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=6557505&GUID=3626C59B-AF90-4FCB-995C-7EDBAA1B4266&Options=&Search=",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=13135915&GUID=5FCFA72A-2B5A-4A7E-A7EB-FEFDE03368AB",
+     "sha256": "2d6c250586632e462c34f6eec1a74eeb1573532c678425906a3991d135ce66da"
+    }
+   ]
+  },
+  {
+   "slug": "nyc-local-law-2025-109",
+   "short": "New York City Local Law 109 of 2025",
+   "title": "A Local Law to amend the New York city charter, in relation to the designation of an office or agency as responsible for assisting residents displaced by an emergency",
+   "url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=6632266&GUID=ED782143-BB1C-4D33-89F6-F34D7D89EBC3&Options=&Search=",
+   "versions": [
+    {
+     "from": "2026-05-10",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=14824177&GUID=6F7B55EB-1C83-42F8-8253-645F9697B5C0",
+     "sha256": "5de0c42d0b238cb6f3620b8e31ea79b6eb9be79b879bd155634b12abb4489b4b"
+    }
+   ]
+  },
+  {
+   "slug": "nyc-local-law-2026-052",
+   "short": "New York City Local Law 52 of 2026",
+   "title": "A Local Law to amend the administrative code of the city of New York, in relation to the wrongful deactivation of high-volume for-hire vehicle drivers",
+   "url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=6557685&GUID=B1AD10BE-3B1B-4782-8AE8-65B9C1E20563&Options=&Search=",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15356081&GUID=0FCF5D71-0AA1-432B-9664-01DC832DC6B8",
+     "sha256": "fa01acf1f849e4c21b21511a58cfb7936887edef8a01dda42b185d7de39d5b4c"
+    }
+   ]
   }
  ]
 }

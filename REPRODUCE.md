@@ -1081,13 +1081,16 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `nyc-local-law-2025-110` | A Local Law to amend the administrative code of the city of New York, in relation to requiring additional documentation when an owner seeks to demolish a building and reporting on the correction of violations | 2 | 2026-02-09 to 2026-05-10 |
 | `nyc-local-law-2025-133` | A Local Law to amend the administrative code of the city of New York, in relation to the bicycle safety course required for bicycle operators and suspension and revocation of a license issued to third-party food delivery services | 2 | 2026-04-08 to 2026-10-10 |
 | `nyc-local-law-2026-105` | A Local Law in relation to the establishment of a department of health and mental hygiene task force on NYC 988, and to amend the administrative code of the city of New York, in relation to a public education campaign and reporting on NYC 988 | 2 | 2026-06-13 to 2026-09-11 |
+| `nyc-local-law-2024-070` | A Local Law to amend the administrative code of the city of New York, in relation to increased penalties for department of buildings violations issued to parking structures | 1 | 2024-12-19 to 2024-12-19 |
+| `nyc-local-law-2025-109` | A Local Law to amend the New York city charter, in relation to the designation of an office or agency as responsible for assisting residents displaced by an emergency | 1 | 2026-05-10 to 2026-05-10 |
+| `nyc-local-law-2026-052` | A Local Law to amend the administrative code of the city of New York, in relation to the wrongful deactivation of high-volume for-hire vehicle drivers | 1 | 2026-07-28 to 2026-07-28 |
 
-The build made 893 commits:
+The build made 896 commits:
 
 | Commits | Kind |
 | ---: | --- |
 | 101 | baseline texts where the record starts |
-| 792 | named laws, court decisions and treaties |
+| 795 | named laws, court decisions and treaties |
 | 0 | changes no amendment note explains, credited to the publisher |
 | 0 | corrections to the existing record |
 | 0 | printing or layout changes |
@@ -1095,8 +1098,8 @@ The build made 893 commits:
 Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-12.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 787 laws in the record.
-- 1218 tags.
+- 790 laws in the record.
+- 1224 tags.
 
 ## Dates
 
@@ -1108,7 +1111,7 @@ When a law gives no date of its own, the default rule applies: Each adopted inst
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `6591581fb4ce1b0a417b3bf464b457c411a653e0148242059deceedc9e663e7f` (31304471 bytes).
+- Corpus: sha256 `e92e63b7ccece050c081726af920b7a0c3f60be7fca487e23d8833ae360ca7a8` (31370011 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `63170edd89e92292ac248dae17d79e486e4e9f19`, `check.py` `e340718c28cd5b0edbe37bdeab1aac31427ada66`, `on.py` `4a8aa1c9a5e6bd8cc831b90a6e68c5a6f448a13c`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
@@ -1303,6 +1306,7 @@ No second build of this corpus has been compared yet.
 - Whole-instrument effective dates come from the final commencement clauses and official Council enactment fields. Reporting deadlines and applicability provisos are retained as legal text, without treating those deadlines as a second commencement. These are enacted instruments, not reconstructed consolidated codes.
 - Dependent commencement is resolved only where the final referring clause identifies another numbered instrument or introduction and its official record/final PDF establishes the date. Sections 2 and 7 of Local Law 47 of 2025 share its 120-day commencement; its immediate exception is limited to section one. Full native wording is retained.
 - Five instruments are divided only at their printed Section 1 / numbered section boundaries. Their original clauses expressly allocate separate commencement dates to whole sections. Original preamble, page numbers and certifications are retained. Local Law 105 of 2026 prints section 3 twice; both source labels and all original words are preserved, using source-order file keys.
+- The final clauses set one whole-instrument effective date for each act. Permission for earlier administrative implementation or rules does not give the enacted instrument a second commencement. The source wording is retained in full.
 - The Administrative Code and Charter snapshots were built with the approved world-law-ops main tool bundle 590053183eb05e4288e221c23feb9e5d8d600e6c.
 - The Administrative Code source Title 29 contains only index pages and no section text; no Title 29 law file is asserted.
 - The Charter source footer prints the Administrative Code waiver wording, so no separate express Charter waiver is claimed.
@@ -1475,3 +1479,4 @@ Model use at data-build time:
 - GPT-6 assessed commencement metadata and wrote extraction code; no model generated or corrected law words or OCR.
 - GPT-6 assessed source cross-references and commencement metadata; no model generated or corrected law words or OCR.
 - GPT-6 assessed source section numbering and commencement dates and wrote deterministic extraction code; no model generated or corrected law words or OCR.
+- GPT-6 assessed commencement metadata and wrote extraction code; no model generated or corrected legal wording or OCR.

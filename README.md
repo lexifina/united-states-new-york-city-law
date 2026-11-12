@@ -1,6 +1,6 @@
 # New York City law
 
-This repository contains 462 City adopted-rule instruments and two labelled historical copies: 6,106 Administrative Code sections in 31 title groups, and 627 Charter sections in 70 chapter groups. Each Code or Charter section has its own file. The rule instruments carry the effective dates stated by the City. A separate selected collection records 325 numbered Local Laws enacted after the historical snapshot, preserving the native text of each enacted PDF and its source-backed enactment and effective dates.
+This repository contains 462 City adopted-rule instruments and two labelled historical copies: 6,106 Administrative Code sections in 31 title groups, and 627 Charter sections in 70 chapter groups. Each Code or Charter section has its own file. The rule instruments carry the effective dates stated by the City. A separate selected collection records 328 numbered Local Laws enacted after the historical snapshot, preserving the native text of each enacted PDF and its source-backed enactment and effective dates.
 
 ## Sources and dates
 
@@ -18,4 +18,4 @@ The Code source links CC0 1.0 and prints a public-domain waiver; the exact sourc
 
 The section text preserves the source's legal words, with whitespace normalization only. Source repository section files contain no embedded images. GPT-6 wrote extraction code and selected metadata; it supplied or corrected no legal wording or OCR text.
 
-The selected Local Law collection contains instruments numbered in 2024–2026; its latest numbered instrument is Local Law 134 of 2026. Coverage since the historical snapshot is incomplete. Eighty-two other numbered instruments identified in the cited Council records are outside this selection, including laws with later or staged commencement and instruments requiring further text or image assessment.
+The selected Local Law collection contains instruments numbered in 2024–2026; its latest numbered instrument is Local Law 134 of 2026. Coverage since the historical snapshot is incomplete. Seventy-nine other numbered instruments identified in the cited Council records are outside this selection, including laws with later or staged commencement and instruments requiring further text or image assessment.
