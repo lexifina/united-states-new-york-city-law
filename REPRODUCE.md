@@ -1065,13 +1065,29 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `nyc-local-law-2025-145` | A Local Law to amend the administrative code of the city of New York in relation to aligning the requirements of the earned safe and sick time act and the temporary schedule change act | 1 | 2026-02-22 to 2026-02-22 |
 | `nyc-local-law-2024-105` | A Local Law to amend the administrative code of the city of New York, in relation to requiring an agency to provide an explanation of a denial of approval of a subcontractor | 1 | 2025-03-09 to 2025-03-09 |
 | `nyc-local-law-2024-106` | A Local Law to amend the administrative code of the city of New York, in relation to establishing guidelines for insurance requirements for food procurement vendors | 1 | 2025-03-09 to 2025-03-09 |
+| `nyc-local-law-2026-061` | A Local Law to amend the administrative code of the city of New York, in relation to the establishment of compensation standards for security guards | 1 | 2026-07-28 to 2026-07-28 |
+| `nyc-local-law-2024-099` | A Local Law to amend the administrative code of the city of New York, in relation to the installation of solar photovoltaic systems on city-owned property | 1 | 2024-12-10 to 2024-12-10 |
+| `nyc-local-law-2025-011` | A Local Law to amend the New York city charter, in relation to post-employment activities of certain former public servants | 1 | 2025-05-23 to 2025-05-23 |
+| `nyc-local-law-2025-056` | A Local Law to amend the administrative code of the city of New York, in relation to police department transparency in the use of surveillance technology | 1 | 2025-05-10 to 2025-05-10 |
+| `nyc-local-law-2026-073` | A Local Law to amend the administrative code of the city of New York, in relation to reporting on payments to early childhood care and education providers | 1 | 2026-03-27 to 2026-03-27 |
+| `nyc-local-law-2026-106` | A Local Law in relation to a plan to expand access to temporary public bathrooms at certain special events held during the World Cup | 1 | 2026-06-13 to 2026-06-13 |
+| `nyc-local-law-2025-037` | A Local Law to amend the administrative code of the city of New York, in relation to requiring the administration for children's services to report annually on the number and placement of foster youth | 1 | 2025-07-10 to 2025-07-10 |
+| `nyc-local-law-2025-050` | A Local Law to amend the New York city building code, in relation to the required lighting under sidewalk sheds | 1 | 2025-08-15 to 2025-08-15 |
+| `nyc-local-law-2025-051` | A Local Law to amend the administrative code of the city of New York, in relation to penalties for failing to complete fa?ade repairs in a timely manner | 1 | 2026-01-12 to 2026-01-12 |
+| `nyc-local-law-2025-103` | A Local Law to amend the New York city building code, in relation to requiring a solid acceptable color or the display of artwork on temporary protective structures on construction sites | 1 | 2025-08-15 to 2025-08-15 |
+| `nyc-local-law-2026-020` | A Local Law to amend the administrative code of the city of New York, in relation to prohibiting the distribution of hypodermic syringes and needles by mobile syringe service programs in certain locations | 1 | 2026-05-17 to 2026-05-17 |
+| `nyc-local-law-2024-067` | A Local Law to amend the administrative code of the city of New York, in relation to increasing the civil penalty for repeated littering violations | 2 | 2024-06-22 to 2024-12-19 |
+| `nyc-local-law-2024-112` | A Local Law to amend the administrative code of the city of New York, in relation to requiring the administration for children's services and the department of probation to report on juvenile justice statistics | 2 | 2024-11-22 to 2025-01-01 |
+| `nyc-local-law-2025-110` | A Local Law to amend the administrative code of the city of New York, in relation to requiring additional documentation when an owner seeks to demolish a building and reporting on the correction of violations | 2 | 2026-02-09 to 2026-05-10 |
+| `nyc-local-law-2025-133` | A Local Law to amend the administrative code of the city of New York, in relation to the bicycle safety course required for bicycle operators and suspension and revocation of a license issued to third-party food delivery services | 2 | 2026-04-08 to 2026-10-10 |
+| `nyc-local-law-2026-105` | A Local Law in relation to the establishment of a department of health and mental hygiene task force on NYC 988, and to amend the administrative code of the city of New York, in relation to a public education campaign and reporting on NYC 988 | 2 | 2026-06-13 to 2026-09-11 |
 
-The build made 872 commits:
+The build made 893 commits:
 
 | Commits | Kind |
 | ---: | --- |
 | 101 | baseline texts where the record starts |
-| 771 | named laws, court decisions and treaties |
+| 792 | named laws, court decisions and treaties |
 | 0 | changes no amendment note explains, credited to the publisher |
 | 0 | corrections to the existing record |
 | 0 | printing or layout changes |
@@ -1079,8 +1095,8 @@ The build made 872 commits:
 Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-12.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 771 laws in the record.
-- 1181 tags.
+- 787 laws in the record.
+- 1218 tags.
 
 ## Dates
 
@@ -1092,7 +1108,7 @@ When a law gives no date of its own, the default rule applies: Each adopted inst
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `b0a7c2b7627a83fc04e829917b077796dc8a95c4cc50aaa47ebc8e3451d034bc` (31078637 bytes).
+- Corpus: sha256 `6591581fb4ce1b0a417b3bf464b457c411a653e0148242059deceedc9e663e7f` (31304471 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `63170edd89e92292ac248dae17d79e486e4e9f19`, `check.py` `e340718c28cd5b0edbe37bdeab1aac31427ada66`, `on.py` `4a8aa1c9a5e6bd8cc831b90a6e68c5a6f448a13c`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
@@ -1284,6 +1300,9 @@ No second build of this corpus has been compared yet.
 - These are separately numbered enacted instruments, not reconstructed consolidated Code or Charter sections. Effective dates come from each final instrument and the Council enactment record. Full native PDF wording is retained.
 - These are separately numbered enacted instruments, not reconstructed consolidated Code or Charter sections. Effective dates come from each final instrument and the Council enactment record. Full native PDF wording is retained.
 - The final instrument gives 120 days after enactment as its sole commencement clause. Council enactment is 2024-11-09, giving 2025-03-09. Full native PDF text is retained.
+- Whole-instrument effective dates come from the final commencement clauses and official Council enactment fields. Reporting deadlines and applicability provisos are retained as legal text, without treating those deadlines as a second commencement. These are enacted instruments, not reconstructed consolidated codes.
+- Dependent commencement is resolved only where the final referring clause identifies another numbered instrument or introduction and its official record/final PDF establishes the date. Sections 2 and 7 of Local Law 47 of 2025 share its 120-day commencement; its immediate exception is limited to section one. Full native wording is retained.
+- Five instruments are divided only at their printed Section 1 / numbered section boundaries. Their original clauses expressly allocate separate commencement dates to whole sections. Original preamble, page numbers and certifications are retained. Local Law 105 of 2026 prints section 3 twice; both source labels and all original words are preserved, using source-order file keys.
 - The Administrative Code and Charter snapshots were built with the approved world-law-ops main tool bundle 590053183eb05e4288e221c23feb9e5d8d600e6c.
 - The Administrative Code source Title 29 contains only index pages and no section text; no Title 29 law file is asserted.
 - The Charter source footer prints the Administrative Code waiver wording, so no separate express Charter waiver is claimed.
@@ -1453,3 +1472,6 @@ Model use at data-build time:
 - GPT-6 wrote extraction code and selected metadata; no model generated or corrected legal words or OCR.
 - GPT-6 wrote extraction code and selected metadata; no model generated or corrected legal words or OCR.
 - GPT-6 selected metadata and checked sources; no model generated or corrected legal words or OCR.
+- GPT-6 assessed commencement metadata and wrote extraction code; no model generated or corrected law words or OCR.
+- GPT-6 assessed source cross-references and commencement metadata; no model generated or corrected law words or OCR.
+- GPT-6 assessed source section numbering and commencement dates and wrote deterministic extraction code; no model generated or corrected law words or OCR.

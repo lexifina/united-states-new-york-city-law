@@ -1772,6 +1772,37 @@
    ],
    "sha256": "72cf18c5971e7e114f1a0ebf1688a145989fb61e16c1010532b138d97bcc3e71"
   },
+  "80-q25-local-laws-001.json": {
+   "acts": [
+    "nyc-local-law-2024-099",
+    "nyc-local-law-2025-011",
+    "nyc-local-law-2025-056",
+    "nyc-local-law-2026-061",
+    "nyc-local-law-2026-073",
+    "nyc-local-law-2026-106"
+   ],
+   "sha256": "73042633132ffbdd59b7d7efbcfed9c09e536a0dd3ad8098e219f34c39d9045f"
+  },
+  "80-q25-local-laws-002.json": {
+   "acts": [
+    "nyc-local-law-2025-037",
+    "nyc-local-law-2025-050",
+    "nyc-local-law-2025-051",
+    "nyc-local-law-2025-103",
+    "nyc-local-law-2026-020"
+   ],
+   "sha256": "737b98a8d47237d343d2f706e74b3b7060f33adeb714c12b0c3c1b68023e91ca"
+  },
+  "80-q25-local-laws-003.json": {
+   "acts": [
+    "nyc-local-law-2024-067",
+    "nyc-local-law-2024-112",
+    "nyc-local-law-2025-110",
+    "nyc-local-law-2025-133",
+    "nyc-local-law-2026-105"
+   ],
+   "sha256": "b1cae8dc815b43dd3c13d575b085f5c1096bb5ef3d4e3413cee3c4930e1671ea"
+  },
   "99-nyc-snapshot-notes.json": {
    "acts": [],
    "sha256": "c646ff71b6b222c49bdf740c2f94e6c2275d024212eb289d0ee525d9276237df"

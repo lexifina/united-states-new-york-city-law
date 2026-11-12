@@ -14824,6 +14824,323 @@
      "sha256": "913470f1e2841b146726b1dfbb9afb335574998de58e70e3fbc0a64de30c7bdf"
     }
    ]
+  },
+  {
+   "slug": "nyc-local-law-2026-061",
+   "short": "New York City Local Law 61 of 2026",
+   "title": "A Local Law to amend the administrative code of the city of New York, in relation to the establishment of compensation standards for security guards",
+   "url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=7681684&GUID=85593CB6-D9D4-473B-9EC0-88F301E5B320&Options=&Search=",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15338219&GUID=15C71CCE-430C-4189-AEDF-ECD7DBF15EBE",
+     "sha256": "16e1e18235193838c750b26d77b306e94a3ee403880bb3e65b04a9acc362b4ca"
+    }
+   ]
+  },
+  {
+   "slug": "nyc-local-law-2024-099",
+   "short": "New York City Local Law 99 of 2024",
+   "title": "A Local Law to amend the administrative code of the city of New York, in relation to the installation of solar photovoltaic systems on city-owned property",
+   "url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=6514984&GUID=5D75118D-7184-49EB-AD18-741A54909F7F&Options=&Search=",
+   "versions": [
+    {
+     "from": "2024-12-10",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=13574702&GUID=9EB67D4E-9D4D-460E-A0B2-5935EEA295E9",
+     "sha256": "65978dc2699dd38772b3dd9221e2b96ddf8841ec4df9ba886894318d7f8241c7"
+    }
+   ]
+  },
+  {
+   "slug": "nyc-local-law-2025-011",
+   "short": "New York City Local Law 11 of 2025",
+   "title": "A Local Law to amend the New York city charter, in relation to post-employment activities of certain former public servants",
+   "url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=6509448&GUID=02981E7A-0123-492A-8A5A-074811DD0F43&Options=&Search=",
+   "versions": [
+    {
+     "from": "2025-05-23",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=13920173&GUID=D0BD0260-6C41-4C44-B399-77A11B34B9D0",
+     "sha256": "996dd6163af227cde6aaaab728b8e0c7a901819effa2d64cb2c3afd3f4a24dc2"
+    }
+   ]
+  },
+  {
+   "slug": "nyc-local-law-2025-056",
+   "short": "New York City Local Law 56 of 2025",
+   "title": "A Local Law to amend the administrative code of the city of New York, in relation to police department transparency in the use of surveillance technology",
+   "url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=6558150&GUID=93128EDA-AF40-4B9E-9E77-6F8696E2F718&Options=&Search=",
+   "versions": [
+    {
+     "from": "2025-05-10",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=14299269&GUID=9EBE4058-28D6-4C38-A815-D66CBC22DB5A",
+     "sha256": "351402dc2314f870964d3d880cb6db8a5cdd883d7edf1867e137b60f5685ffef"
+    }
+   ]
+  },
+  {
+   "slug": "nyc-local-law-2026-073",
+   "short": "New York City Local Law 73 of 2026",
+   "title": "A Local Law to amend the administrative code of the city of New York, in relation to reporting on payments to early childhood care and education providers",
+   "url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=7827586&GUID=FF20353B-1856-4BF0-B471-4578500EB147&Options=&Search=",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15427540&GUID=E8CEC949-53C0-478E-99DE-84C59216A19D",
+     "sha256": "f68344461dba9962c3578fc8aee80f77fa4b8f12657e2ebec8bac34dce537569"
+    }
+   ]
+  },
+  {
+   "slug": "nyc-local-law-2026-106",
+   "short": "New York City Local Law 106 of 2026",
+   "title": "A Local Law in relation to a plan to expand access to temporary public bathrooms at certain special events held during the World Cup",
+   "url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=7980781&GUID=65C0711C-7314-4CCA-8E32-59CC96046AE6&Options=&Search=",
+   "versions": [
+    {
+     "from": "2026-06-13",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15675200&GUID=A62C1A2E-F774-4316-95B3-C59A725DE21B",
+     "sha256": "1590a629b16dd0b895c4731fa3df0f665c3ae5d1614ca1045c25f87ded8d6d3f"
+    }
+   ]
+  },
+  {
+   "slug": "nyc-local-law-2025-037",
+   "short": "New York City Local Law 37 of 2025",
+   "title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the administration for children's services to report annually on the number and placement of foster youth",
+   "url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=6509434&GUID=4CC65BD6-930F-436C-8634-CB0814792F90&Options=&Search=",
+   "versions": [
+    {
+     "from": "2025-07-10",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=14206272&GUID=1C6E6368-CFD5-4100-BCFD-ABD3ECE3B063",
+     "sha256": "daea9e510e841d6cda69aac9e1adbaba4ef744ce7f5ed048df43c1c729fa9c80"
+    }
+   ]
+  },
+  {
+   "slug": "nyc-local-law-2025-050",
+   "short": "New York City Local Law 50 of 2025",
+   "title": "A Local Law to amend the New York city building code, in relation to the required lighting under sidewalk sheds",
+   "url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=6584105&GUID=19A103AE-D0BD-4CCC-8425-5FA1BFDFB466&Options=&Search=",
+   "versions": [
+    {
+     "from": "2025-08-15",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=14269055&GUID=D1AF26F6-E00F-48A4-A15E-34B91B78A1E3",
+     "sha256": "8e9024409225ce54b45a9fba4d4c8d7ee6a30ab8fab766b7c4dc40647d39f572"
+    }
+   ]
+  },
+  {
+   "slug": "nyc-local-law-2025-051",
+   "short": "New York City Local Law 51 of 2025",
+   "title": "A Local Law to amend the administrative code of the city of New York, in relation to penalties for failing to complete fa?ade repairs in a timely manner",
+   "url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=6584106&GUID=0A7C8911-8F86-4D48-82A2-51F28CE9B2C2&Options=&Search=",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=14269056&GUID=161FA99E-A759-44E7-BF2A-00054A4C4FBA",
+     "sha256": "f06195b44d2e67d0e1e1efbc69075393a299a19c92445c28d42c40b68ad8b36a"
+    }
+   ]
+  },
+  {
+   "slug": "nyc-local-law-2025-103",
+   "short": "New York City Local Law 103 of 2025",
+   "title": "A Local Law to amend the New York city building code, in relation to requiring a solid acceptable color or the display of artwork on temporary protective structures on construction sites",
+   "url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=7406708&GUID=CBD6C190-6A4F-4A5D-AC50-0834FE4E49CE&Options=&Search=",
+   "versions": [
+    {
+     "from": "2025-08-15",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=14740316&GUID=E5FC315D-F411-448A-8C96-E6DB53A12D96",
+     "sha256": "57aed4b3bc711deddbb021df32d841a48dc38706e6a319173ecf8ca6b9a8ad7c"
+    }
+   ]
+  },
+  {
+   "slug": "nyc-local-law-2026-020",
+   "short": "New York City Local Law 20 of 2026",
+   "title": "A Local Law to amend the administrative code of the city of New York, in relation to prohibiting the distribution of hypodermic syringes and needles by mobile syringe service programs in certain locations",
+   "url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=6695219&GUID=BE141DAB-9E0D-4A14-8F06-114AAAB66E05&Options=&Search=",
+   "versions": [
+    {
+     "from": "2026-05-17",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15301242&GUID=B8510CC5-FBE6-4142-AC00-A6495C940BC5",
+     "sha256": "384ca067df928dbbce01582cd31201f3a8f054e17befe88cebe2f6dc0b8bf13a"
+    }
+   ]
+  },
+  {
+   "slug": "nyc-local-law-2024-067",
+   "short": "New York City Local Law 67 of 2024",
+   "title": "A Local Law to amend the administrative code of the city of New York, in relation to increasing the civil penalty for repeated littering violations",
+   "url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=6500694&GUID=4EDDD302-0CD2-453D-A7FB-8D4F80E18C9E&Options=&Search=",
+   "versions": [
+    {
+     "from": "2024-06-22",
+     "to": "2024-12-18",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 3,
+     "source_url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=13135909&GUID=FBD57399-C8AA-482D-8BD9-A50A9C4EDE02",
+     "sha256": "e5211c1916ed815facfc3d8546facd0e526c7c37b84b6be5fe730c17a2dd0b89"
+    },
+    {
+     "from": "2024-12-19",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 4,
+     "source_url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=13135909&GUID=FBD57399-C8AA-482D-8BD9-A50A9C4EDE02",
+     "sha256": "e5211c1916ed815facfc3d8546facd0e526c7c37b84b6be5fe730c17a2dd0b89"
+    }
+   ]
+  },
+  {
+   "slug": "nyc-local-law-2024-112",
+   "short": "New York City Local Law 112 of 2024",
+   "title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the administration for children's services and the department of probation to report on juvenile justice statistics",
+   "url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=6509496&GUID=9441A4E1-A89E-412F-B8AD-606D9A47F08C&Options=&Search=",
+   "versions": [
+    {
+     "from": "2024-11-22",
+     "to": "2024-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 5,
+     "source_url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=13629796&GUID=A582B16A-B18F-45EF-B47B-873002654850",
+     "sha256": "fe6ed444f2d81a292242f4e253bdbb188f86bdb83b39366ac7832aa90a361d79"
+    },
+    {
+     "from": "2025-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 7,
+     "source_url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=13629796&GUID=A582B16A-B18F-45EF-B47B-873002654850",
+     "sha256": "fe6ed444f2d81a292242f4e253bdbb188f86bdb83b39366ac7832aa90a361d79"
+    }
+   ]
+  },
+  {
+   "slug": "nyc-local-law-2025-110",
+   "short": "New York City Local Law 110 of 2025",
+   "title": "A Local Law to amend the administrative code of the city of New York, in relation to requiring additional documentation when an owner seeks to demolish a building and reporting on the correction of violations",
+   "url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=6632267&GUID=C654FDF6-1595-4AFF-BA43-57296CA52CB7&Options=&Search=",
+   "versions": [
+    {
+     "from": "2026-02-09",
+     "to": "2026-05-09",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=14824176&GUID=FF6830F6-1902-4388-9725-E63F7321ADBA",
+     "sha256": "ea832ca00c752bd9736df2216448c1fa548fc9f00856dc1c947d03194dd3707e"
+    },
+    {
+     "from": "2026-05-10",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 4,
+     "source_url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=14824176&GUID=FF6830F6-1902-4388-9725-E63F7321ADBA",
+     "sha256": "ea832ca00c752bd9736df2216448c1fa548fc9f00856dc1c947d03194dd3707e"
+    }
+   ]
+  },
+  {
+   "slug": "nyc-local-law-2025-133",
+   "short": "New York City Local Law 133 of 2025",
+   "title": "A Local Law to amend the administrative code of the city of New York, in relation to the bicycle safety course required for bicycle operators and suspension and revocation of a license issued to third-party food delivery services",
+   "url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=6495021&GUID=DFE8BE00-E0E8-4B86-BCB9-A76B68CFEADD&Options=&Search=",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "to": "2026-10-09",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 5,
+     "source_url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=14946368&GUID=1BECD899-AC1C-4ED3-9F47-A71799E1BDB4",
+     "sha256": "731af080b67f80de3a8c5538af0c26e24e61006e596377387ae97cd93aecbd8e"
+    },
+    {
+     "from": "2026-10-10",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 6,
+     "source_url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=14946368&GUID=1BECD899-AC1C-4ED3-9F47-A71799E1BDB4",
+     "sha256": "731af080b67f80de3a8c5538af0c26e24e61006e596377387ae97cd93aecbd8e"
+    }
+   ]
+  },
+  {
+   "slug": "nyc-local-law-2026-105",
+   "short": "New York City Local Law 105 of 2026",
+   "title": "A Local Law in relation to the establishment of a department of health and mental hygiene task force on NYC 988, and to amend the administrative code of the city of New York, in relation to a public education campaign and reporting on NYC 988",
+   "url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=7928986&GUID=499520B7-8654-4286-8B3E-7256401E6430&Options=&Search=",
+   "versions": [
+    {
+     "from": "2026-06-13",
+     "to": "2026-09-10",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15675199&GUID=76726651-6B64-4CFF-93B0-BBE9EA865B1E",
+     "sha256": "6095e72055e9de70177b84c961b3ff27c40174e8a49b6e518ba34ed707ee857c"
+    },
+    {
+     "from": "2026-09-11",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 5,
+     "source_url": "https://legistar.council.nyc.gov/View.ashx?M=F&ID=15675199&GUID=76726651-6B64-4CFF-93B0-BBE9EA865B1E",
+     "sha256": "6095e72055e9de70177b84c961b3ff27c40174e8a49b6e518ba34ed707ee857c"
+    }
+   ]
   }
  ]
 }
