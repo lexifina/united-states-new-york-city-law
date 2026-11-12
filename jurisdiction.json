@@ -1,11 +1,6 @@
 {
-  "name": "New York City",
-  "code": "US-NY-NEW-YORK",
-  "level": "municipality",
-  "parent": "US-NY",
-  "country": "US",
-  "language": "en",
-  "build": "partial",
-  "code_is_iso": false,
-  "iso_path": "us/new-york/new-york/acts"
+ "path": "united-states/new-york/new-york",
+ "code": "US-NY-NEW-YORK",
+ "level": "municipality",
+ "parent": "united-states/new-york"
 }

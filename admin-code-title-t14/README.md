@@ -1,0 +1,66 @@
+# New York City Administrative Code, t14 (historical 2017 snapshot)
+
+NYC Administrative Code t14 · 1 versions, from 2017-04-22 (latest in force: 2017-04-22) · <https://github.com/devinbalkind/nycadmincode/commit/f8d836de12690fa60b1789c0d0a0ea30df25992b>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Section 14-101 | [sec-14-101.md](sec-14-101.md) | 0 |  |
+| Section 14-102 | [sec-14-102.md](sec-14-102.md) | 0 |  |
+| Section 14-103 | [sec-14-103.md](sec-14-103.md) | 0 |  |
+| Section 14-104 | [sec-14-104.md](sec-14-104.md) | 0 |  |
+| Section 14-105 | [sec-14-105.md](sec-14-105.md) | 0 |  |
+| Section 14-106 | [sec-14-106.md](sec-14-106.md) | 0 |  |
+| Section 14-107 | [sec-14-107.md](sec-14-107.md) | 0 |  |
+| Section 14-108 | [sec-14-108.md](sec-14-108.md) | 0 |  |
+| Section 14-109 | [sec-14-109.md](sec-14-109.md) | 0 |  |
+| Section 14-110 | [sec-14-110.md](sec-14-110.md) | 0 |  |
+| Section 14-111 | [sec-14-111.md](sec-14-111.md) | 0 |  |
+| Section 14-112 | [sec-14-112.md](sec-14-112.md) | 0 |  |
+| Section 14-113 | [sec-14-113.md](sec-14-113.md) | 0 |  |
+| Section 14-114 | [sec-14-114.md](sec-14-114.md) | 0 |  |
+| Section 14-115 | [sec-14-115.md](sec-14-115.md) | 0 |  |
+| Section 14-116 | [sec-14-116.md](sec-14-116.md) | 0 |  |
+| Section 14-117 | [sec-14-117.md](sec-14-117.md) | 0 |  |
+| Section 14-118 | [sec-14-118.md](sec-14-118.md) | 0 |  |
+| Section 14-118.1 | [sec-14-118-1.md](sec-14-118-1.md) | 0 |  |
+| Section 14-118.2 | [sec-14-118-2.md](sec-14-118-2.md) | 0 |  |
+| Section 14-119 | [sec-14-119.md](sec-14-119.md) | 0 |  |
+| Section 14-120 | [sec-14-120.md](sec-14-120.md) | 0 |  |
+| Section 14-121 | [sec-14-121.md](sec-14-121.md) | 0 |  |
+| Section 14-122 | [sec-14-122.md](sec-14-122.md) | 0 |  |
+| Section 14-122.1 | [sec-14-122-1.md](sec-14-122-1.md) | 0 |  |
+| Section 14-123 | [sec-14-123.md](sec-14-123.md) | 0 |  |
+| Section 14-124 | [sec-14-124.md](sec-14-124.md) | 0 |  |
+| Section 14-125 | [sec-14-125.md](sec-14-125.md) | 0 |  |
+| Section 14-126 | [sec-14-126.md](sec-14-126.md) | 0 |  |
+| Section 14-127 | [sec-14-127.md](sec-14-127.md) | 0 |  |
+| Section 14-128 | [sec-14-128.md](sec-14-128.md) | 0 |  |
+| Section 14-129 | [sec-14-129.md](sec-14-129.md) | 0 |  |
+| Section 14-130 | [sec-14-130.md](sec-14-130.md) | 0 |  |
+| Section 14-131 | [sec-14-131.md](sec-14-131.md) | 0 |  |
+| Section 14-132 | [sec-14-132.md](sec-14-132.md) | 0 |  |
+| Section 14-133 | [sec-14-133.md](sec-14-133.md) | 0 |  |
+| Section 14-134 | [sec-14-134.md](sec-14-134.md) | 0 |  |
+| Section 14-135 | [sec-14-135.md](sec-14-135.md) | 0 |  |
+| Section 14-136 | [sec-14-136.md](sec-14-136.md) | 0 |  |
+| Section 14-137 | [sec-14-137.md](sec-14-137.md) | 0 |  |
+| Section 14-138 | [sec-14-138.md](sec-14-138.md) | 0 |  |
+| Section 14-139 | [sec-14-139.md](sec-14-139.md) | 0 |  |
+| Section 14-140 | [sec-14-140.md](sec-14-140.md) | 0 |  |
+| Section 14-141 | [sec-14-141.md](sec-14-141.md) | 0 |  |
+| Section 14-147 | [sec-14-147.md](sec-14-147.md) | 0 |  |
+| Section 14-148 | [sec-14-148.md](sec-14-148.md) | 0 |  |
+| Section 14-149 | [sec-14-149.md](sec-14-149.md) | 0 |  |
+| Section 14-150 | [sec-14-150.md](sec-14-150.md) | 0 |  |
+| Section 14-151 | [sec-14-151.md](sec-14-151.md) | 0 |  |
+| Section 14-152. | [sec-14-152.md](sec-14-152.md) | 0 |  |
+| Section 14-153 | [sec-14-153.md](sec-14-153.md) | 0 |  |
+| Section 14-154. | [sec-14-154.md](sec-14-154.md) | 0 |  |
+| Section 14-201 | [sec-14-201.md](sec-14-201.md) | 0 |  |
+| Section 14-202 | [sec-14-202.md](sec-14-202.md) | 0 |  |
+| Section 14-203 | [sec-14-203.md](sec-14-203.md) | 0 |  |
+| Section 14-204 | [sec-14-204.md](sec-14-204.md) | 0 |  |
+| Section 14-205 | [sec-14-205.md](sec-14-205.md) | 0 |  |
+| Section 14-206 | [sec-14-206.md](sec-14-206.md) | 0 |  |
+| Section 14-207 | [sec-14-207.md](sec-14-207.md) | 0 |  |
+| Section 14-208 | [sec-14-208.md](sec-14-208.md) | 0 |  |

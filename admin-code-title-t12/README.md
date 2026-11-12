@@ -1,0 +1,67 @@
+# New York City Administrative Code, t12 (historical 2017 snapshot)
+
+NYC Administrative Code t12 · 1 versions, from 2017-04-22 (latest in force: 2017-04-22) · <https://github.com/devinbalkind/nycadmincode/commit/f8d836de12690fa60b1789c0d0a0ea30df25992b>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Section 12-101 | [sec-12-101.md](sec-12-101.md) | 0 |  |
+| Section 12-102 | [sec-12-102.md](sec-12-102.md) | 0 |  |
+| Section 12-103 | [sec-12-103.md](sec-12-103.md) | 0 |  |
+| Section 12-104 | [sec-12-104.md](sec-12-104.md) | 0 |  |
+| Section 12-105 | [sec-12-105.md](sec-12-105.md) | 0 |  |
+| Section 12-106 | [sec-12-106.md](sec-12-106.md) | 0 |  |
+| Section 12-107 | [sec-12-107.md](sec-12-107.md) | 0 |  |
+| Section 12-108 | [sec-12-108.md](sec-12-108.md) | 0 |  |
+| Section 12-109 | [sec-12-109.md](sec-12-109.md) | 0 |  |
+| Section 12-110 | [sec-12-110.md](sec-12-110.md) | 0 |  |
+| Section 12-111 | [sec-12-111.md](sec-12-111.md) | 0 |  |
+| Section 12-112 | [sec-12-112.md](sec-12-112.md) | 0 |  |
+| Section 12-113 | [sec-12-113.md](sec-12-113.md) | 0 |  |
+| Section 12-114 | [sec-12-114.md](sec-12-114.md) | 0 |  |
+| Section 12-115 | [sec-12-115.md](sec-12-115.md) | 0 |  |
+| Section 12-116 | [sec-12-116.md](sec-12-116.md) | 0 |  |
+| Section 12-117 | [sec-12-117.md](sec-12-117.md) | 0 |  |
+| Section 12-118 | [sec-12-118.md](sec-12-118.md) | 0 |  |
+| Section 12-119 | [sec-12-119.md](sec-12-119.md) | 0 |  |
+| Section 12-120 | [sec-12-120.md](sec-12-120.md) | 0 |  |
+| Section 12-121 | [sec-12-121.md](sec-12-121.md) | 0 |  |
+| Section 12-122 | [sec-12-122.md](sec-12-122.md) | 0 |  |
+| Section 12-123 | [sec-12-123.md](sec-12-123.md) | 0 |  |
+| Section 12-124 | [sec-12-124.md](sec-12-124.md) | 0 |  |
+| Section 12-124.1 | [sec-12-124-1.md](sec-12-124-1.md) | 0 |  |
+| Section 12-125 | [sec-12-125.md](sec-12-125.md) | 0 |  |
+| Section 12-126 | [sec-12-126.md](sec-12-126.md) | 0 |  |
+| Section 12-126.1 | [sec-12-126-1.md](sec-12-126-1.md) | 0 |  |
+| Section 12-126.2 | [sec-12-126-2.md](sec-12-126-2.md) | 0 |  |
+| Section 12-126.3 | [sec-12-126-3.md](sec-12-126-3.md) | 0 |  |
+| Section 12-127 | [sec-12-127.md](sec-12-127.md) | 0 |  |
+| Section 12-128 | [sec-12-128.md](sec-12-128.md) | 0 |  |
+| Section 12-129 | [sec-12-129.md](sec-12-129.md) | 0 |  |
+| Section 12-130 | [sec-12-130.md](sec-12-130.md) | 0 |  |
+| Section 12-131 | [sec-12-131.md](sec-12-131.md) | 0 |  |
+| Section 12-132 | [sec-12-132.md](sec-12-132.md) | 0 |  |
+| Section 12-133 | [sec-12-133.md](sec-12-133.md) | 0 |  |
+| Section 12-134. | [sec-12-134.md](sec-12-134.md) | 0 |  |
+| Section 12-138 | [sec-12-138.md](sec-12-138.md) | 0 |  |
+| Section 12-139 | [sec-12-139.md](sec-12-139.md) | 0 |  |
+| Section 12-201 | [sec-12-201.md](sec-12-201.md) | 0 |  |
+| Section 12-202 | [sec-12-202.md](sec-12-202.md) | 0 |  |
+| Section 12-203 | [sec-12-203.md](sec-12-203.md) | 0 |  |
+| Section 12-205 | [sec-12-205.md](sec-12-205.md) | 0 |  |
+| Section 12-206. | [sec-12-206.md](sec-12-206.md) | 0 |  |
+| Section 12-301 | [sec-12-301.md](sec-12-301.md) | 0 |  |
+| Section 12-302 | [sec-12-302.md](sec-12-302.md) | 0 |  |
+| Section 12-303 | [sec-12-303.md](sec-12-303.md) | 0 |  |
+| Section 12-304 | [sec-12-304.md](sec-12-304.md) | 0 |  |
+| Section 12-305 | [sec-12-305.md](sec-12-305.md) | 0 |  |
+| Section 12-306 | [sec-12-306.md](sec-12-306.md) | 0 |  |
+| Section 12-307 | [sec-12-307.md](sec-12-307.md) | 0 |  |
+| Section 12-308 | [sec-12-308.md](sec-12-308.md) | 0 |  |
+| Section 12-309 | [sec-12-309.md](sec-12-309.md) | 0 |  |
+| Section 12-310 | [sec-12-310.md](sec-12-310.md) | 0 |  |
+| Section 12-311 | [sec-12-311.md](sec-12-311.md) | 0 |  |
+| Section 12-312 | [sec-12-312.md](sec-12-312.md) | 0 |  |
+| Section 12-313 | [sec-12-313.md](sec-12-313.md) | 0 |  |
+| Section 12-314 | [sec-12-314.md](sec-12-314.md) | 0 |  |
+| Section 12-315 | [sec-12-315.md](sec-12-315.md) | 0 |  |
+| Section 12-316 | [sec-12-316.md](sec-12-316.md) | 0 |  |

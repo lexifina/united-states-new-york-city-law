@@ -586,6 +586,616 @@
     "rcny-e40bb4162f32e152"
    ],
    "sha256": "d911b07300da68acf1c70557a1b6b233ee0e838183d0f9c00d3220c5582cec97"
+  },
+  "70-admin-t01.json": {
+   "acts": [
+    "admin-code-title-t01"
+   ],
+   "sha256": "1d54a501a48d7d60ac0edebdc842ac620a4158a0eb9fdfc1a377803abb9bd962"
+  },
+  "70-admin-t02.json": {
+   "acts": [
+    "admin-code-title-t02"
+   ],
+   "sha256": "ff66e2dde613e5e30664a212961b17b48530507e8364dbae4b8b9e9ae378f681"
+  },
+  "70-admin-t03.json": {
+   "acts": [
+    "admin-code-title-t03"
+   ],
+   "sha256": "ebc56abaca6ba01985555732fd1593035ebfb464e3f92c04e55575b6355f5631"
+  },
+  "70-admin-t04.json": {
+   "acts": [
+    "admin-code-title-t04"
+   ],
+   "sha256": "a9a60cf41659faa9a6334dcc468128a0df2bca8e742ee401860d2743f5827693"
+  },
+  "70-admin-t05.json": {
+   "acts": [
+    "admin-code-title-t05"
+   ],
+   "sha256": "46787b23698995f775589a487fd772fd3171810ed3ee20fd0f669f45935de262"
+  },
+  "70-admin-t06.json": {
+   "acts": [
+    "admin-code-title-t06"
+   ],
+   "sha256": "b0b08c97c4cc861f911c35bba8df5e4bffaea4b9eee421e312caf7b341e44f1b"
+  },
+  "70-admin-t07.json": {
+   "acts": [
+    "admin-code-title-t07"
+   ],
+   "sha256": "de077c1183716e33d9c5e101d47362e9e1687d1f6965a4e498900fe8e4a4e601"
+  },
+  "70-admin-t08.json": {
+   "acts": [
+    "admin-code-title-t08"
+   ],
+   "sha256": "709066cea7cd2f2a714f86a1ea2714bc2f34655497d0350a93237ea3b1c8f2e5"
+  },
+  "70-admin-t09.json": {
+   "acts": [
+    "admin-code-title-t09"
+   ],
+   "sha256": "e2c635e0c27e17ac6f1a2422c0a0f405403c24e904854c326653924867d6ee41"
+  },
+  "70-admin-t10.json": {
+   "acts": [
+    "admin-code-title-t10"
+   ],
+   "sha256": "e10d1fd5e3ac08a24e67777dd7db83616b0d78aaa49d7d800fa24d73a49e5a6e"
+  },
+  "70-admin-t11.json": {
+   "acts": [
+    "admin-code-title-t11"
+   ],
+   "sha256": "e98ce3e8384f183dd94cadeda90f656d534f19de1dd5d994cdbf02c7cd4ee1de"
+  },
+  "70-admin-t12.json": {
+   "acts": [
+    "admin-code-title-t12"
+   ],
+   "sha256": "b199b018669f4c0c5791cd4b068c5f8395c6c2a0c2992fd08659c8fd68655a36"
+  },
+  "70-admin-t13.json": {
+   "acts": [
+    "admin-code-title-t13"
+   ],
+   "sha256": "b507e3fa911e2c7f18bb7f44cfb6f99cbddb567b8a7cbd680e343510271a17b0"
+  },
+  "70-admin-t14.json": {
+   "acts": [
+    "admin-code-title-t14"
+   ],
+   "sha256": "a6375efdbd664a174ccb9042bce9dd07803f7b25ebbf4d795fc841af5fd8c442"
+  },
+  "70-admin-t15.json": {
+   "acts": [
+    "admin-code-title-t15"
+   ],
+   "sha256": "1270fec87c04c127a71e9dd070d629869edbf0512446376e95271c8675d5a555"
+  },
+  "70-admin-t16-a.json": {
+   "acts": [
+    "admin-code-title-t16-a"
+   ],
+   "sha256": "caa18864ca5ce54809af60bc36581a50456d8731fa693fd665d4525d0c78505d"
+  },
+  "70-admin-t16.json": {
+   "acts": [
+    "admin-code-title-t16"
+   ],
+   "sha256": "59e307e7c63b1b136908d443bf21e7e581f11a7d0aa31b45bb22c38493603691"
+  },
+  "70-admin-t17.json": {
+   "acts": [
+    "admin-code-title-t17"
+   ],
+   "sha256": "a21eb6514209b4fa02eabe181b6645eb1a87b7c5064feaf4b4defd14ef7fd70d"
+  },
+  "70-admin-t18.json": {
+   "acts": [
+    "admin-code-title-t18"
+   ],
+   "sha256": "55d473b7ac836fc3dd1e21e9a674d5eaa107d56e3ab5bdb4840e3eb700cb9d45"
+  },
+  "70-admin-t19.json": {
+   "acts": [
+    "admin-code-title-t19"
+   ],
+   "sha256": "30a9e60649239cab2d47ae77976da5fbfaf16d98afd1fa8ea0a0dc1eeb561f06"
+  },
+  "70-admin-t20-a.json": {
+   "acts": [
+    "admin-code-title-t20-a"
+   ],
+   "sha256": "693292f7d43b3961169ee4fc725f64b93501480f0c6d404b4b14c8fa14fad989"
+  },
+  "70-admin-t20.json": {
+   "acts": [
+    "admin-code-title-t20"
+   ],
+   "sha256": "d8b058720bc2b303c39377787d17bff51bc4cfb27f25262a8493ec5077c81087"
+  },
+  "70-admin-t21.json": {
+   "acts": [
+    "admin-code-title-t21"
+   ],
+   "sha256": "7a83128addffc343e124089da1cf1f54f232d7c3e7b7906667d614a7e09eb6c2"
+  },
+  "70-admin-t22.json": {
+   "acts": [
+    "admin-code-title-t22"
+   ],
+   "sha256": "9a4fadd97ca156d8ffa7a8938d03a77b30864cd929ca8798e2fc31e24fc8b51f"
+  },
+  "70-admin-t23.json": {
+   "acts": [
+    "admin-code-title-t23"
+   ],
+   "sha256": "d74c931c5d5bf6ca59831180af91828e0c16001719c2571140ec5afd1f7a1066"
+  },
+  "70-admin-t24.json": {
+   "acts": [
+    "admin-code-title-t24"
+   ],
+   "sha256": "02f140332e7493542f4750df3b5f871fa005d5417e283a6a011529624a890bc7"
+  },
+  "70-admin-t25.json": {
+   "acts": [
+    "admin-code-title-t25"
+   ],
+   "sha256": "dc4c08edeb511f2af9572bda3a3c48f4d53301a26dda8823ae6909d88352c58b"
+  },
+  "70-admin-t26.json": {
+   "acts": [
+    "admin-code-title-t26"
+   ],
+   "sha256": "b625b1d8a1e0fcc9397cb177125eae813d89eb381296fb0874cbd286c0b11e3b"
+  },
+  "70-admin-t27.json": {
+   "acts": [
+    "admin-code-title-t27"
+   ],
+   "sha256": "1bb35b43994b92647d7a3843e889cfc55da82b20798f136c50d85e261f5187c8"
+  },
+  "70-admin-t28.json": {
+   "acts": [
+    "admin-code-title-t28"
+   ],
+   "sha256": "c8e41d3830574d86f707faf4ec55bcd44d9cff679afe4a0a6d8bbc13982c3702"
+  },
+  "70-admin-t30.json": {
+   "acts": [
+    "admin-code-title-t30"
+   ],
+   "sha256": "99178ab993e2c013aaa71668235faf02bd13dff1ac6b3bc2af51e86bcad31cdb"
+  },
+  "71-charter-c00.json": {
+   "acts": [
+    "charter-chapter-c00"
+   ],
+   "sha256": "c59c14a2943c7dfe9197cc08bec55054fa795c5daf558ffafacc8265be34d6c1"
+  },
+  "71-charter-c01.json": {
+   "acts": [
+    "charter-chapter-c01"
+   ],
+   "sha256": "51e05270bd7ef16c1dfec05c7dd6eb501257945f735b036fddb866a80c93063c"
+  },
+  "71-charter-c02.json": {
+   "acts": [
+    "charter-chapter-c02"
+   ],
+   "sha256": "14a1e6e43da050e9124501fbe15b290290118650a20b512d2ada3ebf2757deab"
+  },
+  "71-charter-c02a.json": {
+   "acts": [
+    "charter-chapter-c02a"
+   ],
+   "sha256": "9239914aab80afe5c3679fb501afd09635e0b516ca27b3c6dfcfcea5ff40d06b"
+  },
+  "71-charter-c04.json": {
+   "acts": [
+    "charter-chapter-c04"
+   ],
+   "sha256": "a9ebba27638732b5bcac7004b407bddd400a263581453c0447cdac606621b333"
+  },
+  "71-charter-c05.json": {
+   "acts": [
+    "charter-chapter-c05"
+   ],
+   "sha256": "cec734fb5f90f933f65bd1d8e43c69e9d70146cccd97303e2c1f8b852d362d03"
+  },
+  "71-charter-c06.json": {
+   "acts": [
+    "charter-chapter-c06"
+   ],
+   "sha256": "668c5af627652f0954470f298d6c2c8192d6c5a3cf7912d3f40c828912df6be7"
+  },
+  "71-charter-c07.json": {
+   "acts": [
+    "charter-chapter-c07"
+   ],
+   "sha256": "1277d162a337a313372b9e19f747b92ac940ac7142b6f74efdec4e986e8db3f9"
+  },
+  "71-charter-c08.json": {
+   "acts": [
+    "charter-chapter-c08"
+   ],
+   "sha256": "d5bdd73511eb2b37f0e5c706b16b4ab58a80234827a64f8b5d73a0999baa5842"
+  },
+  "71-charter-c09.json": {
+   "acts": [
+    "charter-chapter-c09"
+   ],
+   "sha256": "b534a58d7607290291d6cd61b3c3ea2de163a2159130a8dd9bfaa16096f9d6c5"
+  },
+  "71-charter-c10.json": {
+   "acts": [
+    "charter-chapter-c10"
+   ],
+   "sha256": "78892d963f7900cba1c23828f80a347ad5ef1375a1ac3a17817e1ed07f720286"
+  },
+  "71-charter-c11.json": {
+   "acts": [
+    "charter-chapter-c11"
+   ],
+   "sha256": "2d05d94b87e3f5983719b78bfcd9b580497ca9f3f5e62387ea50e2ec35c7d25d"
+  },
+  "71-charter-c12.json": {
+   "acts": [
+    "charter-chapter-c12"
+   ],
+   "sha256": "4e0b20c875ab427026719225e5ecf712fa7132b0a33aadca26ac04d221bb9763"
+  },
+  "71-charter-c13.json": {
+   "acts": [
+    "charter-chapter-c13"
+   ],
+   "sha256": "98c5ec3197db0b663920a628a6eb0a7f9c3aa22f7563da0cbea17622a20ed5dd"
+  },
+  "71-charter-c14.json": {
+   "acts": [
+    "charter-chapter-c14"
+   ],
+   "sha256": "27ecb149589690e4c8e123a7b563d8ec61ff586d0288813a131d358c88b6ae37"
+  },
+  "71-charter-c15.json": {
+   "acts": [
+    "charter-chapter-c15"
+   ],
+   "sha256": "657747dcf547740a1e06b31416416ce4a2d75653e25e7f7210031745512bab88"
+  },
+  "71-charter-c16.json": {
+   "acts": [
+    "charter-chapter-c16"
+   ],
+   "sha256": "0835fcca7e742d6a31607b63c8848e8886acb0df344586120cd4ba56c4a7be18"
+  },
+  "71-charter-c17.json": {
+   "acts": [
+    "charter-chapter-c17"
+   ],
+   "sha256": "0aefbd7593a8a936ab60d75a89ba470b6e3526c18ce867470eb69194cda3e5b2"
+  },
+  "71-charter-c18.json": {
+   "acts": [
+    "charter-chapter-c18"
+   ],
+   "sha256": "bb2ac2f891ad6b05db79e2a0940c2ed9b27953f53fe586518131ea3c293cb7e9"
+  },
+  "71-charter-c18a.json": {
+   "acts": [
+    "charter-chapter-c18a"
+   ],
+   "sha256": "c434cb818fe416c41beb84a9db3b71dca342c54ebd296cd005a57bc08d33b050"
+  },
+  "71-charter-c18b.json": {
+   "acts": [
+    "charter-chapter-c18b"
+   ],
+   "sha256": "a2f35f7ae7422fc8831a9b88701bdb8c952768138be70661a46d8e65604f4c8f"
+  },
+  "71-charter-c18c.json": {
+   "acts": [
+    "charter-chapter-c18c"
+   ],
+   "sha256": "d802076f2d17a4bee52776abd5e6e976602dd59cda3db53829f7c338c62cd95f"
+  },
+  "71-charter-c18d.json": {
+   "acts": [
+    "charter-chapter-c18d"
+   ],
+   "sha256": "155bab26cc6673fb954fbee2fcadc5b4e4049ad932aaa7f66393b5e07b9f70d5"
+  },
+  "71-charter-c19.json": {
+   "acts": [
+    "charter-chapter-c19"
+   ],
+   "sha256": "68edbe928943717e207d8d6a202f1b7787ac6ec9f6325a334bbaecd0d823fc40"
+  },
+  "71-charter-c19a.json": {
+   "acts": [
+    "charter-chapter-c19a"
+   ],
+   "sha256": "d995e9aad623b8479506828db5233ad6df4d280705d7d830f2bfa344af4c067c"
+  },
+  "71-charter-c20.json": {
+   "acts": [
+    "charter-chapter-c20"
+   ],
+   "sha256": "9b14aaebfce0b4e72334c6bad64129dee3b2df85706651431110c533f8b4c09a"
+  },
+  "71-charter-c21.json": {
+   "acts": [
+    "charter-chapter-c21"
+   ],
+   "sha256": "e913a0e03665ee9abe221706947bb88cf3339109699212247859eeeffb00f2fb"
+  },
+  "71-charter-c21a.json": {
+   "acts": [
+    "charter-chapter-c21a"
+   ],
+   "sha256": "9ae0ef00904a1463d555bd6e4ec0d1f63a18507a318594e4fa1c06d380a731e8"
+  },
+  "71-charter-c22.json": {
+   "acts": [
+    "charter-chapter-c22"
+   ],
+   "sha256": "fb422027502d4738f06a0edcf51af8c9cbf9896378de5bc72efe2e2c6e0bc7d5"
+  },
+  "71-charter-c24.json": {
+   "acts": [
+    "charter-chapter-c24"
+   ],
+   "sha256": "c1b714ecb0589cc60f998cd93437891c5319570bda07812df70c75fc614c6201"
+  },
+  "71-charter-c24a.json": {
+   "acts": [
+    "charter-chapter-c24a"
+   ],
+   "sha256": "cad9f1351152a21d55641590128169bbe263de10349751aac9ada464de403a1b"
+  },
+  "71-charter-c24b.json": {
+   "acts": [
+    "charter-chapter-c24b"
+   ],
+   "sha256": "0ed6fe17f2b0d2d9effb05a70ae586deaf6b8de7cbc278c7ac8c2069fa6968a7"
+  },
+  "71-charter-c25.json": {
+   "acts": [
+    "charter-chapter-c25"
+   ],
+   "sha256": "fbbebb763cdf16f4b1ae8063615715ad2e5cac372a28c4906d3932ef9afa33d3"
+  },
+  "71-charter-c26.json": {
+   "acts": [
+    "charter-chapter-c26"
+   ],
+   "sha256": "9b399070a3688062476add710b3d6f3aa0db0ebe99d1fd625d5529763993561f"
+  },
+  "71-charter-c27.json": {
+   "acts": [
+    "charter-chapter-c27"
+   ],
+   "sha256": "dca30bf4eb293b2d82ae2827aa146e3020ec50c179082224e0d1e3dd660acd45"
+  },
+  "71-charter-c30.json": {
+   "acts": [
+    "charter-chapter-c30"
+   ],
+   "sha256": "c55cb274d1d9bae71e1c07bf9d025d8c5bd5c9a1065a188b2ae7ddf650fa3991"
+  },
+  "71-charter-c31.json": {
+   "acts": [
+    "charter-chapter-c31"
+   ],
+   "sha256": "e92239a567227ee94b4dc820348deb5b4abf536002c2de0295c46d98729a69ca"
+  },
+  "71-charter-c34.json": {
+   "acts": [
+    "charter-chapter-c34"
+   ],
+   "sha256": "f56403c8232dd0e51d4da422f2b6b267aa3bb4fb712795f22a4c85f90266f898"
+  },
+  "71-charter-c35.json": {
+   "acts": [
+    "charter-chapter-c35"
+   ],
+   "sha256": "c794468c48a5c57b88bc803aed3313d214f00e3079d37552e6a307016b8cc24e"
+  },
+  "71-charter-c36.json": {
+   "acts": [
+    "charter-chapter-c36"
+   ],
+   "sha256": "93a4373016970e13827148d8c54a41c29220755358c2ba816934054ecd3982e3"
+  },
+  "71-charter-c37.json": {
+   "acts": [
+    "charter-chapter-c37"
+   ],
+   "sha256": "15a2094913d14ff1f55385b31db46f0a442800bf7789bfc4f0272d281baf78f0"
+  },
+  "71-charter-c38.json": {
+   "acts": [
+    "charter-chapter-c38"
+   ],
+   "sha256": "4b12fa3c37a27cebefe991b2dfaf756e9502568e5b858d328d76c8dc06e7b8ea"
+  },
+  "71-charter-c39.json": {
+   "acts": [
+    "charter-chapter-c39"
+   ],
+   "sha256": "34b0838e3296ce8dd7c220633f9165aade7ce736ca07ca4192e2403c2067d62b"
+  },
+  "71-charter-c40.json": {
+   "acts": [
+    "charter-chapter-c40"
+   ],
+   "sha256": "8841609e00b19ae74b62debe1d626a03536be3c845ca0a34e8c1b90c93e9d5a2"
+  },
+  "71-charter-c45.json": {
+   "acts": [
+    "charter-chapter-c45"
+   ],
+   "sha256": "0dc7488623a8f04ab2888166ff18b4e4ded9b06b2d841989d23992e646b64c57"
+  },
+  "71-charter-c45a.json": {
+   "acts": [
+    "charter-chapter-c45a"
+   ],
+   "sha256": "0bf82d1f7aa413dcfcd0cddab8c8cf0c6cd15debd2c865eaf20dc3953a82c203"
+  },
+  "71-charter-c46.json": {
+   "acts": [
+    "charter-chapter-c46"
+   ],
+   "sha256": "ec0c873468e8df8e6e05a473a3f75f92b7440a0084bf8fea02e0319928a975d2"
+  },
+  "71-charter-c47.json": {
+   "acts": [
+    "charter-chapter-c47"
+   ],
+   "sha256": "bcbd9742fa3703935e048f1c3a294ce30e76d867527fcb87375ed6a8f4deb18c"
+  },
+  "71-charter-c48.json": {
+   "acts": [
+    "charter-chapter-c48"
+   ],
+   "sha256": "01f1e1da4cc811e296ff943483838ed513964aedfe3fd0a69164b62add486da5"
+  },
+  "71-charter-c49.json": {
+   "acts": [
+    "charter-chapter-c49"
+   ],
+   "sha256": "c197c36044808b88417ef84cb87aa134c8ebe159a693d9f03cfcbec8b6006530"
+  },
+  "71-charter-c50.json": {
+   "acts": [
+    "charter-chapter-c50"
+   ],
+   "sha256": "7d43929f2038d6dfc843bfc4daa94cdb3b402ea7cd5c80fddfbb93462f6a41dd"
+  },
+  "71-charter-c51.json": {
+   "acts": [
+    "charter-chapter-c51"
+   ],
+   "sha256": "f1ca589e6cd9aeb20dd02b250a993b8a32125ab4786ce812852830f23d9204f1"
+  },
+  "71-charter-c52.json": {
+   "acts": [
+    "charter-chapter-c52"
+   ],
+   "sha256": "0539df0266515e9f430df717479fb4db727d5ffa357907fc417bc9ed7cfd444f"
+  },
+  "71-charter-c54.json": {
+   "acts": [
+    "charter-chapter-c54"
+   ],
+   "sha256": "823ed2627320eff308207e7e0445cc2aa5f2dd2d2e8e12b6bcb02fbd4752caf5"
+  },
+  "71-charter-c55.json": {
+   "acts": [
+    "charter-chapter-c55"
+   ],
+   "sha256": "ebb57c2fa0a895455fdb73ec27ee8fbece26053a218de654cf2abf6511b35080"
+  },
+  "71-charter-c56.json": {
+   "acts": [
+    "charter-chapter-c56"
+   ],
+   "sha256": "92c31276363ddf39534490c63d11d97fb91cff804ac4d50b36e2e2bdd232f175"
+  },
+  "71-charter-c57.json": {
+   "acts": [
+    "charter-chapter-c57"
+   ],
+   "sha256": "071b80e19646f7dcd77804ced6db8c39686f5f940715bb56e0a1268ee28e3a3f"
+  },
+  "71-charter-c58.json": {
+   "acts": [
+    "charter-chapter-c58"
+   ],
+   "sha256": "b4713f01e4a47ac3840acf9b4e9374ce21b878508bdf88a536e45896ee188678"
+  },
+  "71-charter-c61.json": {
+   "acts": [
+    "charter-chapter-c61"
+   ],
+   "sha256": "6e1d730c382a3ccb1d5e9603514e91ae9a6f8329c2c6f25e8593ed42e805f9fd"
+  },
+  "71-charter-c63.json": {
+   "acts": [
+    "charter-chapter-c63"
+   ],
+   "sha256": "82f1fa89a24e286107291e83ac80486de56cdd71e8a8d212c71816c459ac389a"
+  },
+  "71-charter-c64.json": {
+   "acts": [
+    "charter-chapter-c64"
+   ],
+   "sha256": "46926aff4062f61bfb3d6c045d11e4c76b7479254cacc336b3f742df25badad3"
+  },
+  "71-charter-c65.json": {
+   "acts": [
+    "charter-chapter-c65"
+   ],
+   "sha256": "f22c325071c3fe5cdb0bb10f39545a2d5e1a34ba01b05707c8f21d288a7f6811"
+  },
+  "71-charter-c66.json": {
+   "acts": [
+    "charter-chapter-c66"
+   ],
+   "sha256": "312bf34cd1585438bc881b3212decadfcddc2566ced41fcee5f16ae7be4a911f"
+  },
+  "71-charter-c67.json": {
+   "acts": [
+    "charter-chapter-c67"
+   ],
+   "sha256": "41d0b8ecb79526d5d18ea10372bae0017cc01f316d9b64b63a07e6bde05e90c4"
+  },
+  "71-charter-c68.json": {
+   "acts": [
+    "charter-chapter-c68"
+   ],
+   "sha256": "9db1e2ac6db0695ba766f002e0494958dc1c0a14f366539b0a92547c276353a7"
+  },
+  "71-charter-c69.json": {
+   "acts": [
+    "charter-chapter-c69"
+   ],
+   "sha256": "1887901ab6e26757f6afb325f8a8f1af1d61b67f36c0f363c21503c2a4cb1016"
+  },
+  "71-charter-c70.json": {
+   "acts": [
+    "charter-chapter-c70"
+   ],
+   "sha256": "35e5468dedd2b9d2d412a4fa4f49bd0dcff46de185305a3bd1da4fb3d2a59bdc"
+  },
+  "71-charter-c71.json": {
+   "acts": [
+    "charter-chapter-c71"
+   ],
+   "sha256": "21d72f3c7ea69b7d26ce0c1fc9fb7f0e9c1e7134ca19bfa9f7e87710bad5d8ab"
+  },
+  "71-charter-c72.json": {
+   "acts": [
+    "charter-chapter-c72"
+   ],
+   "sha256": "bdfddf42232e16c9e866de7af91f9f17d767ff3bd3d9d2d24b5d071a61459572"
+  },
+  "71-charter-c74.json": {
+   "acts": [
+    "charter-chapter-c74"
+   ],
+   "sha256": "5eb8da8614378a2dc39adf4098ec0ef6d7501cd1bd59f828a7de7abf388b5efe"
+  },
+  "99-nyc-snapshot-notes.json": {
+   "acts": [],
+   "sha256": "c646ff71b6b222c49bdf740c2f94e6c2275d024212eb289d0ee525d9276237df"
   }
  },
  "schema": 1

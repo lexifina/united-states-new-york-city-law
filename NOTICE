@@ -1,2 +1,11 @@
-Included adopted-rule legislative texts: City of New York. Website design and trademarks are excluded from any open-licence claim.
-Authorized historical copies, currently held and not included: Friends of Devin Balkind for Public Advocate, CC0-style public-domain waiver; original bulk text credited to Kallos and Thom Neale. The companion Charter waiver names the Administrative Code, an unresolved attribution ambiguity.
+New York City adopted-rule legislative texts: City of New York.
+
+The Administrative Code source repository's footer links CC0 1.0 and states:
+
+"To the extent possible under law, Friends of Devin Balkind for Public Advocate has waived all copyright and related or neighboring rights to New York City Administrative Code. This work is published from: United States."
+
+It also states: "Special thanks to Benjarmin Kallos and Thom Neale who made this content publicly available as a bulk download." The spelling "Benjarmin" is the source's wording.
+
+The companion Charter source repository prints the same waiver sentence, still naming "New York City Administrative Code". Its application to Charter text is therefore unclear; the Charter text is identified as an unofficial copy of a government edict, without claiming that the footer expressly waives rights in the Charter copy.
+
+Source commits: https://github.com/devinbalkind/nycadmincode/commit/f8d836de12690fa60b1789c0d0a0ea30df25992b and https://github.com/devinbalkind/nyccharter/commit/71a6c8fc6f41b94f7e82adf4fcf709ea13092156 .

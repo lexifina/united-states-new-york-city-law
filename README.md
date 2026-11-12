@@ -1,26 +1,17 @@
 # New York City law
 
-This record contains 462 adopted-rule instruments, with their full text and the effective dates stated by the City of New York. It contains no Local Laws, Charter text or Administrative Code snapshots. The rules are separate dated instruments; this record does not provide a consolidated current RCNY.
+This repository contains 462 City adopted-rule instruments and two labelled historical copies: 6,106 Administrative Code sections in 31 title groups, and 627 Charter sections in 70 chapter groups. Each Code or Charter section has its own file. The rule instruments carry the effective dates stated by the City.
 
-## Sources and coverage
+## Sources and dates
 
-- [NYC Rules](https://rules.cityofnewyork.us/recently-adopted-rules/) is the city's official adopted-rule publication. Of its 597 listed entries, 462 are included and 135 remain outside this record.
-- [NYC Council Legistar](https://legistar.council.nyc.gov/Legislation.aspx) is the official source for enacted Local Laws. Local Law coverage remains outstanding.
-- The [public-domain Administrative Code copy](https://nycadmincode.readthedocs.io/) is an unofficial copy of official text, derived from the city's Open Law bulk publication under Local Law 37 of 2014. It is eligible only as a labelled historical snapshot, superseded by later Local Laws recorded separately. It is not included because its currency date and latest included Local Law are unresolved.
-- The companion [unofficial Charter copy](https://nyccharter.readthedocs.io/) is also excluded pending a supported historical currency date. Its waiver footer names the Administrative Code even on Charter pages; the scope of that waiver remains unresolved.
+- [NYC Rules](https://rules.cityofnewyork.us/recently-adopted-rules/) is the official publication for the adopted-rule instruments. This record includes 462 of its 597 listed entries; 135 are outside this record. It is not a consolidated current RCNY.
+- The [Administrative Code source snapshot](https://github.com/devinbalkind/nycadmincode/commit/f8d836de12690fa60b1789c0d0a0ea30df25992b) is an unofficial public-domain copy of official text, derived from the City's Open Law bulk publication under Local Law 37 of 2014. Its GitHub commit is dated 2017-04-22. The copy does not state an exact consolidation currency or identify its latest included Local Law. The record labels that commit day as **text as of**, not as each section's legal commencement. Title 29 has index pages but no section text in that source snapshot.
+- The companion [Charter source snapshot](https://github.com/devinbalkind/nyccharter/commit/71a6c8fc6f41b94f7e82adf4fcf709ea13092156) is an unofficial copy of official text. Its GitHub commit is also dated 2017-04-22. It does not state an exact consolidation currency or identify its latest included Local Law. Its footer repeats the Administrative Code waiver wording; NOTICE quotes that wording and identifies the Charter ambiguity.
 
-The current consolidated Administrative Code is not included because its publisher, American Legal, refuses our client. No current consolidated Charter coverage is asserted.
+Later Local Laws and amendments are not yet included in either historical copy. Enacted Local Laws are a separate collection and are not included here. The present-day consolidated Administrative Code and Charter are not asserted.
 
-## Dates and completeness
+## Rights and text
 
-Each instrument's Source and Text-source trailers identify its official record and full text. In-force-basis identifies the source evidence for its effective date. The data tables also contain the source URL, source-byte SHA-256 and writing commit for each version.
+The Code source links CC0 1.0 and prints a public-domain waiver; the exact source wording and credits are in NOTICE. Official legislative texts are government edicts. No rights in city website design, marks or other copyrightable site material are claimed.
 
-Status “as captured” does not establish whether a standalone amendment remains operative today. Future-effective rules, records without identifiable adopted text, and instruments with unresolved image or text completeness are outside this record. No OCR text or model-corrected legal wording is included. Available source policies declare no AI-training Content-Signal.
-
-## Rights and attribution
-
-City legislative edicts are reproduced as law text. The city's website design, marks and other copyrightable materials remain reserved. The unofficial Administrative Code copy states: “To the extent possible under law, Friends of Devin Balkind for Public Advocate has waived all copyright and related or neighboring rights to New York City Administrative Code.” It links to CC0 1.0 and credits “Benjarmin Kallos” (the site's spelling) and Thom Neale. No text from that copy is included here.
-
-## Verification and model use
-
-Law text is equal to the native extracted official source text, with whitespace normalization only. Dates and sources are recorded in the trailers and data tables. GPT-6 wrote code and checked metadata; it supplied and corrected no legal wording. Verification details appear in REPRODUCE.md.
+The section text preserves the source's legal words, with whitespace normalization only. Source repository section files contain no embedded images. GPT-6 wrote extraction code and selected metadata; it supplied or corrected no legal wording or OCR text.
